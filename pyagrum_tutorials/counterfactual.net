@@ -1,0 +1,355 @@
+net
+{
+	propagationenginegenerator1791944048146838126L = "edu.ucla.belief.approx.BeliefPropagationSettings@563da01f";
+	recoveryenginegenerator6944530267470113528l = "edu.ucla.util.SettingsImpl@23ae4fd8";
+	jenginegenerator6060830225489488864L = "edu.ucla.belief.inference.JoinTreeSettings@7a996d05";
+	node_size = (200.0 55.0);
+}
+
+node D
+{
+	states = ("medicine" "engineering" );
+	position = (-2 -557);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "false";
+	ID = "variable9";
+	label = "D";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node amm
+{
+	states = ("true" "false" );
+	position = (509 -305);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "false";
+	ID = "variable13";
+	label = "amm";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node afe
+{
+	states = ("true" "false" );
+	position = (851 -387);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "false";
+	ID = "variable16";
+	label = "afe";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node NG
+{
+	states = ("male" "female" );
+	position = (255 -96);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "false";
+	ID = "variable8";
+	label = "NG";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node GC
+{
+	states = ("male" "female" );
+	position = (544 -546);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	ID = "variable7";
+	label = "GC";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node mif
+{
+	states = ("true" "false" );
+	position = (189 -239);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "false";
+	ID = "variable11";
+	label = "mif";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node DC
+{
+	states = ("medicine" "engineering" );
+	position = (441 -732);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	ID = "variable9";
+	label = "DC";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node A
+{
+	states = ("true" "false" );
+	position = (233 -583);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "false";
+	ID = "variable12";
+	label = "A";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node mim
+{
+	states = ("true" "false" );
+	position = (316 -355);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "false";
+	ID = "variable10";
+	label = "mim";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node afm
+{
+	states = ("true" "false" );
+	position = (721 -254);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "false";
+	ID = "variable14";
+	label = "afm";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node AC
+{
+	states = ("true" "false" );
+	position = (736 -728);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	ID = "variable12";
+	label = "AC";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node G
+{
+	states = ("male" "female" );
+	position = (-3 -279);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "false";
+	ID = "variable7";
+	label = "G";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node ame
+{
+	states = ("true" "false" );
+	position = (612 -154);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "false";
+	ID = "variable15";
+	label = "ame";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+potential ( D | G mim mif )
+{
+	data = ((((	1.0	0.0	)
+		(	1.0	0.0	))
+		((	0.0	1.0	)
+		(	0.0	1.0	)))
+		(((	1.0	0.0	)
+		(	0.0	1.0	))
+		((	1.0	0.0	)
+		(	0.0	1.0	))));
+}
+potential ( amm | )
+{
+	data = (	0.3	0.7	);
+}
+potential ( afe | )
+{
+	data = (	1.0	0.0	);
+}
+potential ( NG | )
+{
+	data = (	0.5	0.5	);
+}
+potential ( GC | NG )
+{
+	data = ((	1.0	0.0	)
+		(	0.0	1.0	));
+}
+potential ( mif | )
+{
+	data = (	0.8	0.19999999999999996	);
+}
+potential ( DC | GC mim mif )
+{
+	data = ((((	1.0	0.0	)
+		(	1.0	0.0	))
+		((	0.0	1.0	)
+		(	0.0	1.0	)))
+		(((	1.0	0.0	)
+		(	0.0	1.0	))
+		((	1.0	0.0	)
+		(	0.0	1.0	))));
+}
+potential ( A | D G amm ame afm afe )
+{
+	data = (((((((	1.0	0.0	)
+		(	1.0	0.0	))
+		((	1.0	0.0	)
+		(	1.0	0.0	)))
+		(((	1.0	0.0	)
+		(	1.0	0.0	))
+		((	1.0	0.0	)
+		(	1.0	0.0	))))
+		((((	0.0	1.0	)
+		(	0.0	1.0	))
+		((	0.0	1.0	)
+		(	0.0	1.0	)))
+		(((	0.0	1.0	)
+		(	0.0	1.0	))
+		((	0.0	1.0	)
+		(	0.0	1.0	)))))
+		(((((	1.0	0.0	)
+		(	1.0	0.0	))
+		((	0.0	1.0	)
+		(	0.0	1.0	)))
+		(((	1.0	0.0	)
+		(	1.0	0.0	))
+		((	0.0	1.0	)
+		(	0.0	1.0	))))
+		((((	1.0	0.0	)
+		(	1.0	0.0	))
+		((	0.0	1.0	)
+		(	0.0	1.0	)))
+		(((	1.0	0.0	)
+		(	1.0	0.0	))
+		((	0.0	1.0	)
+		(	0.0	1.0	))))))
+		((((((	1.0	0.0	)
+		(	1.0	0.0	))
+		((	1.0	0.0	)
+		(	1.0	0.0	)))
+		(((	0.0	1.0	)
+		(	0.0	1.0	))
+		((	0.0	1.0	)
+		(	0.0	1.0	))))
+		((((	1.0	0.0	)
+		(	1.0	0.0	))
+		((	1.0	0.0	)
+		(	1.0	0.0	)))
+		(((	0.0	1.0	)
+		(	0.0	1.0	))
+		((	0.0	1.0	)
+		(	0.0	1.0	)))))
+		(((((	1.0	0.0	)
+		(	0.0	1.0	))
+		((	1.0	0.0	)
+		(	0.0	1.0	)))
+		(((	1.0	0.0	)
+		(	0.0	1.0	))
+		((	1.0	0.0	)
+		(	0.0	1.0	))))
+		((((	1.0	0.0	)
+		(	0.0	1.0	))
+		((	1.0	0.0	)
+		(	0.0	1.0	)))
+		(((	1.0	0.0	)
+		(	0.0	1.0	))
+		((	1.0	0.0	)
+		(	0.0	1.0	)))))));
+}
+potential ( mim | )
+{
+	data = (	0.5	0.5	);
+}
+potential ( afm | )
+{
+	data = (	0.4	0.6	);
+}
+potential ( AC | DC GC amm ame afm afe )
+{
+	data = (((((((	1.0	0.0	)
+		(	1.0	0.0	))
+		((	1.0	0.0	)
+		(	1.0	0.0	)))
+		(((	1.0	0.0	)
+		(	1.0	0.0	))
+		((	1.0	0.0	)
+		(	1.0	0.0	))))
+		((((	0.0	1.0	)
+		(	0.0	1.0	))
+		((	0.0	1.0	)
+		(	0.0	1.0	)))
+		(((	0.0	1.0	)
+		(	0.0	1.0	))
+		((	0.0	1.0	)
+		(	0.0	1.0	)))))
+		(((((	1.0	0.0	)
+		(	1.0	0.0	))
+		((	0.0	1.0	)
+		(	0.0	1.0	)))
+		(((	1.0	0.0	)
+		(	1.0	0.0	))
+		((	0.0	1.0	)
+		(	0.0	1.0	))))
+		((((	1.0	0.0	)
+		(	1.0	0.0	))
+		((	0.0	1.0	)
+		(	0.0	1.0	)))
+		(((	1.0	0.0	)
+		(	1.0	0.0	))
+		((	0.0	1.0	)
+		(	0.0	1.0	))))))
+		((((((	1.0	0.0	)
+		(	1.0	0.0	))
+		((	1.0	0.0	)
+		(	1.0	0.0	)))
+		(((	0.0	1.0	)
+		(	0.0	1.0	))
+		((	0.0	1.0	)
+		(	0.0	1.0	))))
+		((((	1.0	0.0	)
+		(	1.0	0.0	))
+		((	1.0	0.0	)
+		(	1.0	0.0	)))
+		(((	0.0	1.0	)
+		(	0.0	1.0	))
+		((	0.0	1.0	)
+		(	0.0	1.0	)))))
+		(((((	1.0	0.0	)
+		(	0.0	1.0	))
+		((	1.0	0.0	)
+		(	0.0	1.0	)))
+		(((	1.0	0.0	)
+		(	0.0	1.0	))
+		((	1.0	0.0	)
+		(	0.0	1.0	))))
+		((((	1.0	0.0	)
+		(	0.0	1.0	))
+		((	1.0	0.0	)
+		(	0.0	1.0	)))
+		(((	1.0	0.0	)
+		(	0.0	1.0	))
+		((	1.0	0.0	)
+		(	0.0	1.0	)))))));
+}
+potential ( G | NG )
+{
+	data = ((	1.0	0.0	)
+		(	0.0	1.0	));
+}
+potential ( ame | )
+{
+	data = (	0.9	0.09999999999999998	);
+}
