@@ -1,0 +1,1001 @@
+A,D,G,ST1,J,ST2,S,T,E,H,P,Att,R,L
+18-21,sometimes,fail,alone,no,last moment,male,sometimes,no,None,high school,always,yes,rental
+18-21,always,pass,alone,no,last moment,male,sometimes,no,6-10 hours,university,always,no,dormitory
+22-25,sometimes,pass,alone,no,regularly,female,always,no,<5 hours,high school,always,no,dormitory
+22-25,always,pass,alone,no,last moment,male,always,no,<5 hours,high school,always,yes,rental
+18-21,sometimes,pass,alone,yes,last moment,male,always,no,None,high school,sometimes,no,with family
+18-21,always,fail,with friends,yes,last moment,female,always,no,None,high school,sometimes,no,rental
+18-21,sometimes,pass,alone,no,last moment,male,sometimes,no,<5 hours,high school,always,yes,rental
+22-25,always,pass,not applicable,yes,last moment,male,always,no,None,university,always,no,with family
+22-25,always,pass,alone,yes,last moment,male,always,yes,6-10 hours,university,always,no,with family
+22-25,always,fail,with friends,no,last moment,female,always,yes,None,university,sometimes,yes,with family
+22-25,always,pass,alone,yes,last moment,male,always,yes,11-20 hours,high school,sometimes,no,rental
+22-25,sometimes,pass,alone,no,last moment,male,always,no,<5 hours,university,always,yes,dormitory
+18-21,sometimes,pass,alone,no,last moment,female,always,no,<5 hours,secondary school,sometimes,yes,rental
+22-25,always,pass,alone,no,last moment,female,always,no,more than 20 hours,secondary school,always,no,rental
+18-21,sometimes,fail,alone,no,last moment,male,always,no,<5 hours,high school,always,no,rental
+above 26,always,pass,alone,yes,last moment,male,always,no,6-10 hours,high school,always,yes,rental
+22-25,always,pass,with friends,yes,last moment,male,sometimes,no,<5 hours,secondary school,always,no,dormitory
+18-21,always,pass,with friends,yes,regularly,male,always,yes,None,university,always,yes,with family
+18-21,sometimes,pass,with friends,no,last moment,male,sometimes,no,<5 hours,high school,always,no,dormitory
+22-25,sometimes,pass,alone,yes,last moment,female,always,no,6-10 hours,high school,always,yes,rental
+18-21,always,pass,alone,yes,last moment,male,always,no,None,secondary school,always,no,with family
+22-25,sometimes,fail,alone,no,last moment,male,sometimes,no,<5 hours,high school,sometimes,yes,rental
+22-25,always,pass,with friends,yes,last moment,male,always,yes,<5 hours,primary school,always,yes,dormitory
+22-25,sometimes,pass,alone,no,last moment,female,always,yes,<5 hours,primary school,sometimes,no,with family
+22-25,always,fail,alone,no,last moment,male,always,yes,6-10 hours,university,always,no,dormitory
+22-25,always,pass,with friends,yes,last moment,male,never,no,None,secondary school,always,yes,with family
+above 26,never,fail,alone,yes,regularly,female,sometimes,yes,<5 hours,high school,always,yes,with family
+22-25,sometimes,pass,alone,no,last moment,male,always,no,<5 hours,high school,always,yes,dormitory
+18-21,always,pass,alone,yes,regularly,male,always,no,<5 hours,secondary school,always,no,with family
+22-25,sometimes,fail,with friends,no,last moment,male,always,no,more than 20 hours,secondary school,always,no,rental
+18-21,sometimes,fail,alone,no,last moment,male,always,no,<5 hours,high school,always,yes,rental
+18-21,always,fail,alone,yes,regularly,male,sometimes,no,None,secondary school,always,yes,dormitory
+18-21,sometimes,fail,alone,no,last moment,female,always,no,<5 hours,university,always,no,with family
+22-25,always,pass,alone,yes,last moment,male,sometimes,yes,<5 hours,secondary school,sometimes,no,rental
+22-25,sometimes,fail,alone,no,last moment,male,sometimes,yes,None,secondary school,always,yes,dormitory
+22-25,always,pass,with friends,no,last moment,female,always,yes,<5 hours,primary school,always,yes,rental
+18-21,never,fail,alone,no,last moment,male,always,no,None,MSc.,always,no,rental
+22-25,always,fail,alone,no,last moment,male,never,no,<5 hours,university,always,yes,dormitory
+22-25,always,pass,alone,no,last moment,male,sometimes,no,<5 hours,high school,always,no,with family
+above 26,sometimes,fail,not applicable,yes,last moment,female,sometimes,no,<5 hours,high school,always,yes,rental
+above 26,always,fail,alone,yes,last moment,female,sometimes,yes,more than 20 hours,university,always,yes,rental
+18-21,always,pass,alone,no,regularly,male,always,no,6-10 hours,secondary school,always,yes,dormitory
+22-25,always,pass,alone,no,last moment,male,sometimes,no,None,MSc.,always,no,rental
+22-25,never,fail,not applicable,no,last moment,male,always,no,<5 hours,university,always,yes,with family
+18-21,sometimes,pass,alone,yes,regularly,female,sometimes,yes,<5 hours,secondary school,always,no,rental
+22-25,sometimes,pass,with friends,yes,last moment,male,always,yes,6-10 hours,primary school,always,no,with family
+18-21,sometimes,fail,not applicable,no,last moment,male,always,no,<5 hours,secondary school,always,no,dormitory
+above 26,always,pass,not applicable,no,never,male,always,yes,<5 hours,university,always,no,dormitory
+22-25,never,pass,alone,no,regularly,male,always,no,<5 hours,high school,sometimes,yes,dormitory
+above 26,sometimes,pass,alone,no,last moment,female,always,yes,6-10 hours,university,always,yes,rental
+18-21,sometimes,fail,with friends,no,last moment,female,always,no,None,high school,always,yes,rental
+18-21,always,fail,alone,no,last moment,male,sometimes,no,<5 hours,high school,always,no,with family
+18-21,sometimes,fail,alone,yes,last moment,male,sometimes,no,None,university,always,yes,with family
+22-25,sometimes,pass,alone,no,last moment,female,sometimes,no,6-10 hours,primary school,always,yes,rental
+18-21,always,fail,alone,no,last moment,male,always,no,None,high school,always,no,rental
+22-25,sometimes,pass,alone,no,last moment,female,always,no,<5 hours,high school,always,no,with family
+22-25,always,pass,alone,yes,last moment,male,sometimes,no,None,high school,sometimes,yes,with family
+22-25,always,pass,alone,no,last moment,female,sometimes,no,<5 hours,high school,always,no,dormitory
+22-25,sometimes,pass,alone,no,last moment,female,always,no,6-10 hours,high school,always,yes,rental
+18-21,never,fail,with friends,no,last moment,female,always,no,<5 hours,Ph.D.,sometimes,no,dormitory
+18-21,always,pass,alone,yes,regularly,female,sometimes,no,<5 hours,MSc.,always,no,dormitory
+22-25,always,pass,alone,no,last moment,female,always,yes,<5 hours,secondary school,always,no,rental
+22-25,always,pass,alone,no,last moment,female,sometimes,no,None,high school,sometimes,no,rental
+18-21,sometimes,pass,alone,yes,last moment,male,always,yes,more than 20 hours,university,always,yes,rental
+18-21,sometimes,fail,not applicable,no,last moment,female,always,no,<5 hours,university,always,yes,rental
+22-25,always,pass,alone,yes,last moment,female,always,no,6-10 hours,high school,always,yes,rental
+22-25,sometimes,pass,alone,yes,last moment,male,sometimes,no,<5 hours,high school,sometimes,no,with family
+18-21,always,pass,alone,yes,last moment,female,always,no,None,primary school,always,yes,dormitory
+18-21,sometimes,pass,alone,no,last moment,male,sometimes,no,6-10 hours,university,always,no,dormitory
+18-21,always,pass,not applicable,yes,last moment,male,sometimes,yes,more than 20 hours,secondary school,always,yes,rental
+above 26,sometimes,pass,alone,no,last moment,female,always,no,<5 hours,university,always,no,dormitory
+22-25,sometimes,pass,alone,no,last moment,male,always,yes,6-10 hours,primary school,always,yes,rental
+22-25,always,fail,alone,yes,last moment,female,always,no,<5 hours,high school,always,no,rental
+18-21,always,fail,alone,no,regularly,female,always,no,None,MSc.,always,yes,rental
+22-25,always,pass,alone,yes,last moment,male,always,yes,more than 20 hours,university,always,yes,rental
+18-21,always,pass,with friends,no,last moment,male,always,no,6-10 hours,high school,always,no,rental
+22-25,sometimes,fail,with friends,no,last moment,male,sometimes,yes,<5 hours,primary school,always,yes,rental
+22-25,sometimes,pass,alone,no,last moment,male,always,yes,<5 hours,high school,always,no,rental
+18-21,sometimes,pass,with friends,no,last moment,female,sometimes,no,<5 hours,high school,always,yes,rental
+22-25,always,pass,alone,yes,last moment,female,always,no,None,university,always,yes,with family
+22-25,always,fail,alone,no,last moment,female,never,yes,6-10 hours,secondary school,always,yes,dormitory
+18-21,sometimes,pass,alone,no,last moment,male,always,yes,<5 hours,high school,always,yes,dormitory
+22-25,always,pass,with friends,no,last moment,female,always,no,<5 hours,high school,always,yes,with family
+18-21,never,pass,alone,yes,last moment,male,sometimes,no,None,university,always,yes,with family
+18-21,always,fail,alone,no,last moment,female,always,no,<5 hours,primary school,always,no,with family
+18-21,sometimes,pass,alone,no,last moment,male,always,no,6-10 hours,high school,always,no,dormitory
+18-21,never,fail,alone,yes,last moment,female,always,no,6-10 hours,secondary school,always,no,dormitory
+18-21,sometimes,pass,with friends,no,last moment,male,always,no,<5 hours,university,sometimes,no,rental
+22-25,sometimes,fail,with friends,no,last moment,female,sometimes,no,<5 hours,university,always,yes,with family
+22-25,sometimes,pass,alone,no,last moment,male,always,yes,<5 hours,university,always,no,rental
+22-25,never,pass,with friends,no,last moment,male,always,yes,<5 hours,high school,sometimes,no,dormitory
+18-21,never,pass,with friends,no,last moment,female,sometimes,yes,6-10 hours,high school,always,yes,rental
+22-25,sometimes,pass,alone,no,last moment,male,sometimes,no,<5 hours,university,always,yes,rental
+18-21,always,fail,alone,no,last moment,male,always,yes,6-10 hours,high school,always,no,dormitory
+18-21,sometimes,fail,with friends,no,last moment,female,always,yes,None,secondary school,always,yes,dormitory
+18-21,sometimes,fail,alone,no,last moment,male,always,yes,6-10 hours,secondary school,sometimes,no,dormitory
+above 26,always,pass,with friends,no,never,female,sometimes,yes,<5 hours,high school,always,no,rental
+22-25,always,pass,alone,no,last moment,male,sometimes,no,None,university,always,no,rental
+22-25,always,fail,not applicable,no,regularly,male,always,no,more than 20 hours,MSc.,always,no,rental
+18-21,sometimes,pass,alone,yes,last moment,male,always,no,more than 20 hours,primary school,sometimes,yes,other
+above 26,always,pass,with friends,no,regularly,female,always,no,None,high school,always,no,rental
+18-21,always,pass,alone,yes,regularly,female,never,no,None,primary school,always,no,with family
+22-25,sometimes,fail,with friends,no,last moment,male,always,yes,<5 hours,university,always,no,dormitory
+22-25,sometimes,fail,alone,yes,last moment,male,sometimes,no,None,high school,always,no,with family
+18-21,sometimes,pass,alone,no,last moment,female,always,no,None,high school,always,yes,rental
+22-25,sometimes,pass,not applicable,yes,last moment,male,sometimes,yes,<5 hours,university,sometimes,yes,with family
+18-21,sometimes,fail,alone,yes,regularly,female,sometimes,no,6-10 hours,high school,always,no,dormitory
+22-25,sometimes,pass,alone,no,last moment,male,sometimes,no,<5 hours,secondary school,always,yes,rental
+22-25,always,pass,with friends,yes,last moment,male,always,no,<5 hours,high school,always,no,with family
+18-21,always,pass,alone,no,last moment,male,sometimes,yes,<5 hours,primary school,always,yes,rental
+18-21,sometimes,pass,alone,no,last moment,male,always,no,<5 hours,university,always,no,with family
+18-21,sometimes,fail,alone,yes,last moment,male,sometimes,no,None,university,always,no,with family
+18-21,always,pass,alone,yes,last moment,male,sometimes,no,6-10 hours,secondary school,always,yes,rental
+22-25,always,fail,not applicable,no,last moment,male,sometimes,no,<5 hours,MSc.,sometimes,yes,rental
+above 26,sometimes,pass,alone,no,last moment,female,always,no,<5 hours,high school,always,no,dormitory
+22-25,always,pass,with friends,no,last moment,male,always,yes,<5 hours,high school,always,no,with family
+above 26,sometimes,fail,with friends,no,never,female,always,yes,<5 hours,high school,always,no,dormitory
+18-21,always,fail,not applicable,yes,last moment,male,always,no,<5 hours,Ph.D.,sometimes,yes,rental
+22-25,always,fail,alone,no,last moment,male,always,no,<5 hours,secondary school,always,no,dormitory
+22-25,always,pass,with friends,no,last moment,male,sometimes,yes,<5 hours,secondary school,always,no,rental
+18-21,always,fail,alone,yes,regularly,male,sometimes,no,6-10 hours,university,always,no,rental
+18-21,sometimes,pass,with friends,yes,last moment,male,sometimes,yes,<5 hours,high school,always,no,rental
+22-25,sometimes,fail,not applicable,yes,regularly,male,always,no,<5 hours,Ph.D.,always,no,with family
+18-21,sometimes,fail,with friends,no,last moment,female,always,yes,<5 hours,high school,always,yes,rental
+18-21,sometimes,fail,alone,no,last moment,male,sometimes,yes,6-10 hours,university,always,yes,dormitory
+22-25,sometimes,pass,not applicable,yes,last moment,male,sometimes,no,<5 hours,university,sometimes,no,dormitory
+above 26,always,pass,with friends,no,last moment,female,sometimes,no,<5 hours,primary school,always,yes,rental
+18-21,sometimes,pass,alone,no,last moment,female,sometimes,yes,<5 hours,high school,always,no,dormitory
+22-25,never,fail,with friends,no,last moment,female,always,yes,11-20 hours,university,always,no,dormitory
+22-25,always,fail,with friends,yes,last moment,female,always,no,more than 20 hours,university,sometimes,yes,dormitory
+22-25,sometimes,fail,with friends,no,regularly,female,always,no,<5 hours,high school,always,yes,dormitory
+22-25,always,pass,alone,no,last moment,male,always,yes,<5 hours,secondary school,always,no,dormitory
+22-25,always,pass,alone,no,last moment,female,sometimes,no,6-10 hours,high school,always,no,dormitory
+18-21,always,pass,alone,no,last moment,male,always,no,None,primary school,always,no,rental
+18-21,never,fail,alone,no,last moment,male,sometimes,no,<5 hours,high school,sometimes,yes,rental
+18-21,sometimes,pass,alone,yes,last moment,female,sometimes,no,None,primary school,sometimes,no,rental
+18-21,sometimes,pass,alone,yes,last moment,male,never,no,None,primary school,always,yes,dormitory
+22-25,always,fail,alone,yes,last moment,female,always,no,None,high school,sometimes,yes,rental
+above 26,always,fail,not applicable,no,last moment,female,always,no,<5 hours,high school,sometimes,no,rental
+18-21,sometimes,fail,alone,no,last moment,female,sometimes,no,6-10 hours,high school,always,yes,rental
+22-25,sometimes,pass,alone,no,regularly,male,always,no,<5 hours,university,sometimes,no,dormitory
+above 26,sometimes,pass,alone,no,last moment,female,always,yes,<5 hours,university,always,yes,rental
+18-21,always,pass,alone,no,last moment,male,always,no,<5 hours,high school,always,yes,dormitory
+22-25,always,pass,with friends,no,last moment,male,always,yes,6-10 hours,university,always,no,with family
+18-21,always,pass,alone,no,last moment,male,sometimes,no,<5 hours,high school,sometimes,yes,with family
+18-21,always,pass,alone,yes,last moment,male,sometimes,no,None,high school,always,yes,rental
+18-21,sometimes,pass,alone,no,last moment,male,always,yes,None,MSc.,sometimes,yes,with family
+18-21,sometimes,pass,with friends,no,last moment,male,sometimes,yes,<5 hours,university,sometimes,no,rental
+22-25,never,fail,alone,yes,last moment,male,always,yes,<5 hours,secondary school,sometimes,no,rental
+18-21,sometimes,pass,with friends,yes,last moment,male,sometimes,yes,<5 hours,high school,always,no,rental
+18-21,sometimes,fail,alone,yes,last moment,male,always,yes,<5 hours,high school,always,yes,dormitory
+18-21,always,pass,alone,no,last moment,male,sometimes,no,<5 hours,primary school,sometimes,no,with family
+18-21,sometimes,pass,with friends,yes,last moment,male,sometimes,no,6-10 hours,high school,always,no,rental
+22-25,always,pass,alone,yes,last moment,female,always,no,6-10 hours,high school,always,no,rental
+18-21,sometimes,pass,with friends,yes,regularly,female,sometimes,yes,more than 20 hours,high school,always,yes,rental
+18-21,always,pass,with friends,no,regularly,male,always,no,6-10 hours,university,always,yes,rental
+18-21,always,pass,alone,no,last moment,female,sometimes,no,None,primary school,always,no,rental
+18-21,sometimes,fail,with friends,yes,last moment,male,always,no,6-10 hours,university,always,yes,rental
+18-21,always,pass,alone,yes,last moment,female,always,no,None,primary school,always,yes,rental
+22-25,sometimes,fail,alone,yes,last moment,female,sometimes,no,<5 hours,high school,sometimes,no,rental
+18-21,sometimes,pass,alone,no,last moment,male,always,no,<5 hours,primary school,always,no,dormitory
+18-21,sometimes,fail,alone,yes,last moment,male,always,no,None,secondary school,always,no,with family
+18-21,sometimes,pass,not applicable,yes,last moment,male,sometimes,yes,more than 20 hours,secondary school,always,yes,rental
+18-21,sometimes,pass,alone,no,last moment,male,sometimes,yes,<5 hours,primary school,sometimes,yes,rental
+22-25,sometimes,fail,alone,no,last moment,female,always,no,<5 hours,secondary school,always,yes,dormitory
+22-25,sometimes,pass,with friends,no,last moment,male,sometimes,yes,<5 hours,high school,sometimes,yes,rental
+18-21,sometimes,pass,alone,no,regularly,female,always,no,None,high school,always,no,with family
+22-25,sometimes,fail,with friends,no,last moment,female,sometimes,yes,11-20 hours,primary school,always,no,rental
+22-25,sometimes,fail,alone,no,last moment,male,sometimes,no,<5 hours,secondary school,always,yes,dormitory
+18-21,never,fail,with friends,yes,last moment,female,always,yes,more than 20 hours,high school,always,yes,rental
+22-25,sometimes,pass,with friends,no,last moment,female,always,no,<5 hours,university,always,no,with family
+22-25,always,pass,alone,no,last moment,male,always,no,<5 hours,university,sometimes,no,with family
+22-25,never,fail,alone,yes,last moment,male,always,no,None,university,always,yes,with family
+22-25,sometimes,fail,with friends,no,last moment,female,always,no,<5 hours,primary school,always,yes,with family
+18-21,sometimes,fail,alone,no,last moment,male,always,no,None,high school,always,no,rental
+18-21,always,pass,with friends,no,regularly,male,sometimes,yes,<5 hours,university,sometimes,yes,rental
+18-21,always,pass,alone,yes,last moment,male,sometimes,no,None,secondary school,sometimes,yes,rental
+18-21,sometimes,pass,alone,yes,regularly,female,always,no,None,secondary school,always,yes,rental
+above 26,sometimes,pass,alone,no,last moment,male,always,no,<5 hours,secondary school,always,no,rental
+above 26,sometimes,pass,alone,no,last moment,male,always,no,6-10 hours,high school,sometimes,no,dormitory
+22-25,sometimes,pass,alone,no,regularly,female,always,yes,6-10 hours,high school,sometimes,no,with family
+18-21,always,pass,alone,no,last moment,female,always,no,None,secondary school,always,yes,rental
+22-25,always,fail,alone,no,last moment,female,sometimes,no,<5 hours,high school,always,yes,rental
+18-21,never,pass,alone,no,last moment,male,never,no,<5 hours,secondary school,sometimes,yes,rental
+above 26,sometimes,pass,alone,no,last moment,male,always,yes,6-10 hours,high school,sometimes,yes,dormitory
+22-25,sometimes,pass,with friends,no,last moment,female,always,no,<5 hours,university,always,yes,dormitory
+18-21,always,fail,alone,no,last moment,male,always,yes,<5 hours,primary school,always,no,rental
+18-21,sometimes,fail,with friends,no,last moment,male,sometimes,yes,<5 hours,high school,always,no,rental
+above 26,sometimes,pass,alone,no,last moment,male,sometimes,no,<5 hours,secondary school,always,yes,rental
+18-21,sometimes,fail,alone,no,regularly,female,never,no,<5 hours,secondary school,always,no,with family
+18-21,always,fail,with friends,no,last moment,female,always,no,<5 hours,high school,always,no,rental
+18-21,always,fail,alone,no,last moment,male,always,yes,<5 hours,university,sometimes,yes,with family
+22-25,sometimes,pass,alone,yes,last moment,male,always,yes,6-10 hours,high school,sometimes,no,dormitory
+above 26,always,fail,not applicable,no,never,female,sometimes,no,<5 hours,high school,sometimes,no,rental
+22-25,sometimes,pass,alone,no,last moment,male,always,no,6-10 hours,high school,always,no,dormitory
+22-25,sometimes,pass,alone,no,last moment,male,always,yes,<5 hours,secondary school,always,yes,rental
+22-25,sometimes,fail,with friends,no,last moment,female,always,yes,<5 hours,primary school,always,no,with family
+22-25,sometimes,fail,alone,no,regularly,male,sometimes,no,<5 hours,high school,always,yes,rental
+above 26,never,pass,not applicable,no,never,male,always,yes,<5 hours,primary school,always,no,rental
+18-21,always,fail,alone,yes,last moment,male,sometimes,no,6-10 hours,university,sometimes,no,rental
+18-21,never,fail,alone,no,last moment,female,always,no,more than 20 hours,university,always,no,rental
+18-21,sometimes,fail,not applicable,yes,regularly,male,always,no,None,secondary school,always,no,rental
+22-25,sometimes,fail,with friends,no,last moment,female,always,no,6-10 hours,university,always,yes,rental
+22-25,always,pass,not applicable,no,last moment,male,sometimes,yes,6-10 hours,high school,always,no,with family
+22-25,always,fail,alone,no,last moment,female,always,no,6-10 hours,high school,always,no,dormitory
+18-21,sometimes,pass,alone,no,last moment,male,always,no,<5 hours,primary school,always,yes,dormitory
+22-25,never,pass,alone,yes,last moment,male,sometimes,no,6-10 hours,university,always,no,dormitory
+18-21,never,pass,not applicable,no,last moment,female,always,no,<5 hours,high school,sometimes,no,dormitory
+22-25,sometimes,fail,with friends,yes,last moment,male,always,no,6-10 hours,secondary school,always,yes,dormitory
+22-25,sometimes,fail,with friends,no,last moment,male,sometimes,yes,11-20 hours,high school,sometimes,no,dormitory
+18-21,always,pass,alone,no,last moment,male,always,yes,6-10 hours,secondary school,always,yes,rental
+22-25,always,pass,alone,yes,last moment,female,sometimes,no,6-10 hours,high school,always,no,rental
+18-21,always,pass,alone,no,regularly,female,always,no,<5 hours,primary school,always,no,with family
+18-21,always,pass,alone,no,last moment,male,sometimes,yes,<5 hours,secondary school,always,yes,with family
+18-21,sometimes,fail,not applicable,no,last moment,male,always,no,<5 hours,secondary school,always,no,dormitory
+22-25,sometimes,fail,alone,yes,last moment,male,always,no,<5 hours,university,always,no,dormitory
+22-25,always,fail,alone,no,last moment,male,always,yes,None,high school,sometimes,no,rental
+22-25,always,pass,with friends,no,last moment,female,sometimes,no,None,primary school,always,yes,dormitory
+18-21,always,fail,alone,yes,last moment,male,always,no,<5 hours,primary school,sometimes,no,dormitory
+18-21,always,fail,alone,no,last moment,male,always,no,<5 hours,high school,always,yes,with family
+18-21,sometimes,fail,alone,yes,last moment,female,sometimes,no,<5 hours,secondary school,sometimes,no,rental
+22-25,always,fail,alone,no,regularly,female,sometimes,no,<5 hours,high school,always,no,with family
+22-25,always,pass,alone,no,last moment,female,always,yes,<5 hours,high school,always,no,rental
+22-25,sometimes,fail,alone,no,last moment,male,sometimes,no,<5 hours,high school,sometimes,no,dormitory
+18-21,sometimes,pass,alone,no,last moment,female,always,no,<5 hours,university,always,no,dormitory
+18-21,always,fail,not applicable,yes,regularly,male,sometimes,no,<5 hours,secondary school,always,yes,rental
+18-21,sometimes,pass,alone,yes,regularly,male,always,yes,<5 hours,secondary school,always,yes,dormitory
+22-25,sometimes,pass,alone,no,last moment,male,sometimes,yes,<5 hours,high school,always,no,rental
+18-21,always,pass,alone,no,regularly,male,always,no,<5 hours,university,always,yes,with family
+18-21,sometimes,pass,with friends,no,last moment,male,always,yes,6-10 hours,university,always,no,rental
+18-21,never,fail,alone,no,last moment,male,always,no,<5 hours,secondary school,always,no,dormitory
+22-25,sometimes,pass,alone,yes,last moment,male,always,no,<5 hours,university,always,no,rental
+18-21,sometimes,pass,with friends,no,last moment,male,always,no,<5 hours,secondary school,always,no,dormitory
+22-25,sometimes,fail,with friends,yes,last moment,female,sometimes,no,6-10 hours,MSc.,sometimes,no,dormitory
+18-21,sometimes,pass,alone,no,last moment,male,sometimes,yes,<5 hours,high school,sometimes,yes,rental
+18-21,always,pass,alone,no,regularly,female,always,yes,<5 hours,secondary school,always,no,with family
+18-21,sometimes,fail,with friends,no,last moment,female,sometimes,no,None,high school,always,yes,rental
+18-21,sometimes,pass,alone,no,last moment,male,sometimes,yes,<5 hours,secondary school,always,yes,dormitory
+22-25,always,pass,alone,no,last moment,male,sometimes,no,<5 hours,secondary school,always,no,dormitory
+22-25,always,pass,alone,yes,last moment,male,sometimes,no,6-10 hours,primary school,always,no,dormitory
+22-25,always,pass,alone,yes,last moment,female,never,yes,<5 hours,high school,sometimes,yes,dormitory
+22-25,sometimes,pass,alone,no,last moment,female,always,yes,11-20 hours,primary school,always,no,rental
+18-21,sometimes,fail,with friends,yes,regularly,male,sometimes,no,6-10 hours,high school,always,yes,rental
+18-21,sometimes,pass,with friends,no,last moment,male,always,no,<5 hours,university,always,yes,rental
+22-25,sometimes,fail,with friends,yes,last moment,female,always,yes,6-10 hours,primary school,always,no,rental
+18-21,sometimes,pass,with friends,no,last moment,male,sometimes,yes,<5 hours,university,always,yes,with family
+22-25,always,pass,alone,yes,last moment,male,always,no,6-10 hours,high school,always,no,dormitory
+18-21,sometimes,pass,with friends,no,last moment,female,always,no,<5 hours,high school,always,yes,rental
+22-25,always,pass,alone,no,last moment,male,always,yes,None,high school,always,no,dormitory
+18-21,sometimes,fail,alone,no,regularly,female,sometimes,yes,<5 hours,secondary school,always,no,rental
+18-21,always,pass,alone,yes,last moment,male,sometimes,yes,more than 20 hours,high school,always,yes,rental
+22-25,sometimes,pass,alone,no,last moment,male,always,no,6-10 hours,high school,always,no,dormitory
+18-21,sometimes,pass,not applicable,no,last moment,male,sometimes,no,None,secondary school,always,no,rental
+22-25,always,pass,alone,yes,last moment,female,sometimes,no,None,high school,always,no,with family
+22-25,always,fail,with friends,no,last moment,female,always,yes,None,primary school,sometimes,yes,with family
+22-25,sometimes,pass,alone,no,last moment,female,always,no,6-10 hours,university,always,no,rental
+22-25,sometimes,pass,with friends,yes,last moment,female,always,no,<5 hours,secondary school,sometimes,yes,rental
+22-25,always,pass,alone,no,last moment,male,sometimes,yes,None,primary school,always,no,dormitory
+18-21,always,fail,alone,yes,last moment,male,always,yes,<5 hours,university,always,no,with family
+18-21,sometimes,pass,alone,no,last moment,female,sometimes,no,<5 hours,secondary school,always,yes,dormitory
+18-21,sometimes,pass,with friends,no,regularly,female,sometimes,yes,6-10 hours,high school,always,no,dormitory
+above 26,sometimes,pass,alone,yes,last moment,male,never,no,None,secondary school,always,no,rental
+22-25,always,pass,alone,no,last moment,male,sometimes,yes,<5 hours,university,always,yes,rental
+18-21,sometimes,pass,alone,no,last moment,male,always,yes,<5 hours,primary school,sometimes,yes,rental
+18-21,sometimes,pass,not applicable,no,last moment,female,always,no,<5 hours,high school,sometimes,no,rental
+18-21,always,pass,with friends,no,last moment,female,always,no,<5 hours,Ph.D.,always,no,with family
+22-25,always,pass,with friends,no,last moment,female,sometimes,yes,<5 hours,university,always,yes,rental
+22-25,always,pass,alone,yes,last moment,female,sometimes,no,6-10 hours,primary school,sometimes,no,rental
+18-21,never,pass,with friends,no,last moment,female,always,no,None,high school,always,no,rental
+18-21,sometimes,fail,alone,yes,last moment,male,sometimes,no,None,primary school,always,yes,dormitory
+18-21,always,fail,with friends,yes,regularly,female,always,yes,more than 20 hours,secondary school,always,yes,rental
+22-25,sometimes,pass,alone,no,last moment,female,sometimes,no,<5 hours,university,always,no,dormitory
+22-25,always,fail,alone,no,last moment,male,sometimes,yes,<5 hours,secondary school,always,no,dormitory
+22-25,sometimes,pass,alone,yes,regularly,female,always,yes,<5 hours,high school,always,yes,dormitory
+18-21,always,pass,alone,no,regularly,female,always,no,None,university,sometimes,yes,rental
+22-25,always,fail,alone,yes,last moment,female,always,yes,<5 hours,secondary school,always,no,rental
+22-25,always,pass,alone,yes,last moment,male,sometimes,no,None,secondary school,always,yes,rental
+18-21,sometimes,pass,alone,no,last moment,male,always,yes,6-10 hours,high school,sometimes,no,dormitory
+18-21,always,pass,alone,no,last moment,male,sometimes,yes,6-10 hours,high school,always,no,with family
+18-21,sometimes,pass,alone,yes,last moment,female,always,no,None,primary school,always,yes,with family
+22-25,sometimes,fail,alone,no,last moment,female,sometimes,no,None,high school,always,yes,dormitory
+22-25,sometimes,fail,with friends,no,last moment,female,sometimes,no,<5 hours,university,always,no,rental
+18-21,always,pass,alone,yes,last moment,male,sometimes,no,11-20 hours,secondary school,sometimes,yes,dormitory
+22-25,sometimes,pass,alone,no,last moment,female,sometimes,no,<5 hours,secondary school,always,yes,with family
+22-25,sometimes,fail,alone,no,regularly,male,always,yes,None,high school,sometimes,yes,with family
+22-25,always,pass,alone,no,last moment,male,always,no,None,secondary school,always,yes,dormitory
+22-25,sometimes,fail,alone,no,regularly,male,always,no,None,primary school,sometimes,yes,rental
+22-25,sometimes,pass,with friends,no,last moment,female,always,no,<5 hours,university,always,yes,dormitory
+22-25,sometimes,pass,with friends,no,last moment,male,sometimes,yes,<5 hours,high school,always,no,dormitory
+22-25,always,pass,alone,no,last moment,male,sometimes,no,6-10 hours,secondary school,always,yes,dormitory
+22-25,sometimes,pass,alone,yes,last moment,female,always,yes,<5 hours,high school,always,no,dormitory
+18-21,sometimes,pass,alone,yes,last moment,male,always,no,11-20 hours,secondary school,always,yes,dormitory
+18-21,sometimes,pass,not applicable,yes,last moment,female,sometimes,no,None,high school,sometimes,yes,with family
+18-21,sometimes,fail,alone,no,last moment,male,always,yes,None,high school,always,yes,dormitory
+22-25,always,pass,with friends,no,last moment,female,sometimes,no,<5 hours,university,always,yes,dormitory
+18-21,always,pass,alone,yes,regularly,female,always,no,None,university,sometimes,no,with family
+22-25,always,pass,alone,no,never,female,sometimes,no,<5 hours,MSc.,sometimes,no,with family
+18-21,sometimes,pass,alone,yes,last moment,male,always,yes,<5 hours,secondary school,always,no,rental
+22-25,sometimes,pass,alone,no,last moment,female,sometimes,yes,6-10 hours,high school,sometimes,no,dormitory
+22-25,always,pass,alone,yes,last moment,female,always,no,None,secondary school,always,yes,with family
+22-25,always,pass,alone,no,last moment,female,sometimes,no,None,secondary school,sometimes,yes,rental
+22-25,sometimes,pass,alone,no,last moment,female,sometimes,yes,<5 hours,secondary school,always,no,dormitory
+18-21,sometimes,pass,alone,no,last moment,male,always,yes,<5 hours,secondary school,always,no,with family
+22-25,always,pass,alone,yes,last moment,male,always,no,6-10 hours,secondary school,always,yes,rental
+22-25,sometimes,pass,alone,no,last moment,female,always,no,<5 hours,Ph.D.,sometimes,no,with family
+22-25,sometimes,pass,alone,yes,last moment,male,sometimes,yes,6-10 hours,university,always,no,with family
+22-25,always,pass,with friends,no,last moment,female,sometimes,no,None,high school,always,no,rental
+18-21,always,pass,alone,no,last moment,female,always,no,<5 hours,university,always,yes,rental
+18-21,always,pass,alone,no,last moment,male,always,no,<5 hours,university,always,no,dormitory
+18-21,sometimes,pass,alone,no,last moment,male,always,yes,11-20 hours,primary school,always,no,dormitory
+22-25,always,pass,alone,yes,last moment,female,sometimes,yes,6-10 hours,high school,always,no,dormitory
+22-25,never,pass,with friends,no,last moment,female,sometimes,no,<5 hours,primary school,always,yes,with family
+22-25,always,pass,with friends,no,last moment,male,always,no,<5 hours,secondary school,always,yes,rental
+22-25,sometimes,fail,alone,no,last moment,female,sometimes,no,None,secondary school,always,no,rental
+above 26,sometimes,pass,alone,no,regularly,female,always,no,<5 hours,primary school,always,no,with family
+above 26,sometimes,fail,not applicable,yes,last moment,male,sometimes,yes,more than 20 hours,university,always,yes,rental
+18-21,always,pass,alone,no,regularly,male,always,yes,<5 hours,high school,always,no,dormitory
+22-25,always,pass,alone,yes,last moment,male,sometimes,yes,<5 hours,university,always,yes,dormitory
+22-25,always,pass,alone,yes,last moment,male,always,no,6-10 hours,university,always,no,rental
+18-21,always,pass,with friends,yes,last moment,male,sometimes,no,6-10 hours,university,always,no,rental
+18-21,always,fail,alone,yes,last moment,male,always,yes,<5 hours,high school,always,no,dormitory
+18-21,always,fail,alone,yes,last moment,male,always,yes,<5 hours,high school,always,yes,dormitory
+18-21,sometimes,pass,alone,no,last moment,female,sometimes,no,6-10 hours,university,always,no,rental
+22-25,never,fail,with friends,no,last moment,male,always,yes,None,primary school,always,yes,dormitory
+18-21,sometimes,pass,alone,no,regularly,male,always,no,None,high school,always,yes,rental
+22-25,sometimes,fail,alone,no,last moment,female,always,no,<5 hours,Ph.D.,always,yes,rental
+22-25,never,fail,not applicable,yes,last moment,male,always,no,None,university,always,yes,with family
+18-21,sometimes,pass,alone,no,last moment,male,always,yes,<5 hours,high school,always,yes,rental
+18-21,sometimes,fail,with friends,no,last moment,male,always,no,<5 hours,secondary school,sometimes,yes,rental
+22-25,always,fail,not applicable,no,last moment,male,always,no,6-10 hours,MSc.,always,yes,rental
+22-25,always,fail,alone,no,last moment,female,always,yes,None,university,always,yes,dormitory
+18-21,sometimes,pass,alone,no,last moment,female,never,no,<5 hours,university,always,no,rental
+22-25,sometimes,pass,alone,no,last moment,male,never,yes,<5 hours,high school,always,yes,rental
+18-21,sometimes,pass,not applicable,yes,last moment,male,sometimes,yes,<5 hours,secondary school,always,no,with family
+18-21,always,fail,with friends,no,last moment,male,always,no,<5 hours,high school,sometimes,no,rental
+18-21,sometimes,pass,alone,no,last moment,male,always,yes,<5 hours,university,sometimes,no,rental
+22-25,always,pass,alone,yes,last moment,male,always,no,6-10 hours,secondary school,always,no,rental
+22-25,sometimes,pass,alone,yes,last moment,female,always,no,<5 hours,university,always,no,dormitory
+22-25,sometimes,fail,alone,no,last moment,female,always,no,<5 hours,high school,always,no,rental
+22-25,always,fail,alone,no,last moment,female,always,no,<5 hours,primary school,always,no,with family
+22-25,sometimes,fail,alone,no,last moment,female,always,yes,None,high school,always,no,dormitory
+18-21,sometimes,pass,alone,no,last moment,female,always,yes,6-10 hours,primary school,always,yes,rental
+22-25,always,pass,alone,yes,last moment,male,always,no,<5 hours,university,always,no,with family
+18-21,sometimes,fail,not applicable,no,last moment,female,always,no,<5 hours,MSc.,always,yes,rental
+22-25,sometimes,pass,alone,no,last moment,male,sometimes,no,6-10 hours,university,sometimes,yes,rental
+22-25,never,pass,alone,yes,last moment,male,sometimes,yes,<5 hours,high school,always,no,dormitory
+18-21,always,fail,not applicable,no,regularly,male,always,no,6-10 hours,secondary school,always,yes,rental
+18-21,never,fail,alone,no,regularly,male,never,yes,6-10 hours,university,always,yes,rental
+18-21,sometimes,fail,alone,no,last moment,male,always,yes,6-10 hours,primary school,sometimes,no,rental
+18-21,sometimes,fail,alone,no,last moment,female,sometimes,yes,<5 hours,high school,always,yes,rental
+18-21,sometimes,fail,with friends,yes,last moment,female,always,no,None,high school,always,yes,with family
+22-25,always,fail,alone,no,last moment,male,always,yes,6-10 hours,university,sometimes,yes,rental
+22-25,sometimes,fail,alone,no,last moment,male,always,no,<5 hours,primary school,always,yes,dormitory
+18-21,always,fail,with friends,no,last moment,male,never,no,<5 hours,university,always,no,dormitory
+22-25,sometimes,fail,alone,no,last moment,male,always,no,<5 hours,high school,always,no,with family
+18-21,sometimes,pass,alone,yes,last moment,female,always,no,<5 hours,primary school,always,yes,rental
+18-21,always,pass,with friends,no,regularly,female,always,yes,6-10 hours,high school,always,no,with family
+18-21,never,pass,not applicable,no,regularly,male,always,no,<5 hours,secondary school,sometimes,no,with family
+22-25,sometimes,pass,alone,yes,last moment,female,always,no,<5 hours,secondary school,sometimes,no,with family
+18-21,sometimes,fail,alone,no,regularly,female,always,yes,6-10 hours,primary school,always,yes,rental
+22-25,always,pass,alone,no,last moment,male,never,yes,None,high school,sometimes,yes,dormitory
+22-25,always,fail,alone,no,last moment,male,sometimes,yes,6-10 hours,high school,sometimes,yes,dormitory
+18-21,always,pass,alone,yes,last moment,female,sometimes,no,<5 hours,primary school,always,yes,rental
+22-25,always,fail,not applicable,no,last moment,male,always,no,<5 hours,high school,always,no,rental
+18-21,always,pass,alone,no,last moment,male,always,no,None,university,always,yes,rental
+18-21,always,pass,alone,no,last moment,male,always,no,<5 hours,high school,sometimes,no,dormitory
+18-21,always,pass,with friends,yes,last moment,female,always,no,6-10 hours,high school,sometimes,no,rental
+22-25,always,pass,alone,no,last moment,male,sometimes,no,<5 hours,high school,sometimes,yes,dormitory
+22-25,always,pass,with friends,no,last moment,female,sometimes,no,<5 hours,university,always,yes,rental
+18-21,always,fail,with friends,no,regularly,female,always,yes,<5 hours,high school,always,yes,dormitory
+22-25,sometimes,pass,alone,no,regularly,female,always,no,<5 hours,high school,always,yes,dormitory
+22-25,always,pass,alone,no,last moment,female,always,yes,<5 hours,high school,sometimes,yes,dormitory
+18-21,sometimes,pass,alone,no,last moment,male,always,yes,<5 hours,university,always,no,rental
+22-25,sometimes,pass,with friends,no,last moment,male,always,yes,None,university,always,yes,with family
+18-21,sometimes,pass,alone,no,regularly,female,always,no,6-10 hours,university,always,yes,rental
+18-21,sometimes,pass,alone,no,regularly,female,always,no,<5 hours,university,always,yes,rental
+22-25,sometimes,pass,with friends,yes,last moment,female,sometimes,no,6-10 hours,university,always,no,rental
+22-25,sometimes,fail,alone,yes,last moment,female,always,yes,None,primary school,always,yes,with family
+18-21,always,pass,with friends,no,last moment,male,always,no,<5 hours,university,sometimes,yes,rental
+22-25,always,pass,alone,yes,last moment,female,always,yes,11-20 hours,primary school,always,no,rental
+18-21,sometimes,pass,alone,no,last moment,male,always,yes,6-10 hours,high school,always,yes,dormitory
+18-21,always,pass,alone,yes,last moment,female,always,no,<5 hours,secondary school,sometimes,yes,rental
+18-21,sometimes,fail,with friends,no,regularly,female,always,yes,<5 hours,primary school,always,no,rental
+22-25,sometimes,pass,with friends,yes,last moment,male,always,no,6-10 hours,secondary school,always,no,rental
+22-25,always,pass,with friends,no,last moment,female,always,no,<5 hours,university,always,yes,rental
+18-21,sometimes,fail,alone,yes,regularly,male,always,no,<5 hours,university,sometimes,no,rental
+18-21,always,pass,alone,no,last moment,male,always,no,<5 hours,university,sometimes,no,with family
+22-25,always,fail,alone,yes,regularly,male,always,no,None,high school,always,yes,with family
+18-21,always,pass,alone,yes,last moment,female,sometimes,no,None,primary school,always,yes,dormitory
+22-25,always,fail,alone,no,last moment,male,always,yes,11-20 hours,high school,always,no,rental
+22-25,always,pass,alone,no,last moment,male,always,yes,6-10 hours,university,always,no,dormitory
+18-21,sometimes,pass,alone,no,last moment,female,always,yes,6-10 hours,high school,always,no,with family
+18-21,sometimes,pass,alone,yes,regularly,male,always,no,None,secondary school,always,yes,dormitory
+18-21,always,fail,alone,no,last moment,male,always,no,6-10 hours,high school,sometimes,no,dormitory
+18-21,always,pass,alone,yes,last moment,female,always,no,<5 hours,university,always,no,dormitory
+22-25,sometimes,fail,alone,no,last moment,female,sometimes,yes,<5 hours,high school,always,yes,dormitory
+18-21,sometimes,fail,alone,no,last moment,male,never,yes,None,high school,sometimes,no,rental
+18-21,always,fail,with friends,no,regularly,male,sometimes,no,6-10 hours,university,always,no,rental
+22-25,always,fail,with friends,no,last moment,male,always,yes,<5 hours,primary school,sometimes,yes,with family
+18-21,always,pass,alone,no,last moment,male,sometimes,no,<5 hours,university,sometimes,no,rental
+22-25,always,pass,alone,no,last moment,female,always,no,None,secondary school,always,no,rental
+22-25,sometimes,fail,alone,no,last moment,female,sometimes,yes,6-10 hours,Ph.D.,always,no,rental
+22-25,always,pass,alone,no,last moment,female,always,no,<5 hours,primary school,sometimes,yes,dormitory
+18-21,always,pass,alone,no,regularly,male,always,yes,6-10 hours,university,always,no,with family
+18-21,sometimes,pass,alone,no,last moment,female,always,no,<5 hours,secondary school,always,yes,with family
+22-25,always,pass,alone,yes,last moment,male,sometimes,no,None,secondary school,sometimes,yes,dormitory
+22-25,sometimes,pass,alone,no,last moment,male,always,no,<5 hours,secondary school,always,yes,dormitory
+22-25,sometimes,pass,alone,no,regularly,male,always,no,6-10 hours,primary school,sometimes,yes,rental
+22-25,sometimes,fail,with friends,no,last moment,female,always,yes,<5 hours,university,sometimes,no,rental
+22-25,sometimes,pass,alone,yes,last moment,male,always,no,<5 hours,university,sometimes,no,dormitory
+18-21,sometimes,pass,alone,no,regularly,female,sometimes,yes,None,high school,always,yes,dormitory
+18-21,sometimes,pass,alone,no,last moment,male,always,yes,6-10 hours,university,always,yes,rental
+18-21,sometimes,fail,alone,no,last moment,female,sometimes,no,6-10 hours,high school,always,no,dormitory
+22-25,sometimes,pass,alone,no,last moment,male,sometimes,no,<5 hours,university,sometimes,yes,with family
+22-25,sometimes,fail,alone,no,last moment,female,always,yes,more than 20 hours,secondary school,always,no,dormitory
+22-25,sometimes,pass,alone,no,last moment,male,sometimes,no,<5 hours,high school,always,yes,dormitory
+18-21,always,pass,alone,no,last moment,male,always,no,<5 hours,high school,always,yes,with family
+18-21,always,pass,alone,no,last moment,male,sometimes,no,None,high school,always,no,with family
+18-21,sometimes,pass,alone,no,last moment,male,sometimes,yes,6-10 hours,university,always,no,with family
+18-21,always,pass,alone,yes,regularly,male,always,no,<5 hours,high school,sometimes,no,dormitory
+22-25,sometimes,fail,alone,yes,regularly,male,sometimes,no,<5 hours,high school,sometimes,no,dormitory
+18-21,sometimes,pass,alone,no,last moment,male,always,yes,6-10 hours,high school,always,no,rental
+above 26,always,pass,with friends,yes,never,female,always,yes,<5 hours,high school,always,no,rental
+18-21,always,pass,with friends,no,last moment,male,always,no,None,high school,always,no,rental
+18-21,sometimes,pass,alone,no,last moment,male,always,no,None,high school,sometimes,no,rental
+22-25,always,pass,alone,no,last moment,female,always,no,<5 hours,secondary school,always,yes,with family
+18-21,always,pass,alone,yes,last moment,male,always,no,more than 20 hours,high school,always,yes,dormitory
+above 26,always,pass,with friends,no,never,female,always,yes,None,secondary school,always,yes,dormitory
+18-21,always,pass,alone,yes,last moment,female,always,no,6-10 hours,secondary school,always,no,rental
+22-25,sometimes,pass,alone,no,last moment,male,always,no,<5 hours,secondary school,always,yes,dormitory
+22-25,always,fail,with friends,yes,last moment,male,always,no,None,primary school,sometimes,yes,rental
+22-25,sometimes,fail,with friends,yes,last moment,female,always,yes,6-10 hours,university,always,no,other
+18-21,sometimes,fail,with friends,yes,last moment,female,always,no,None,primary school,always,yes,rental
+22-25,always,fail,with friends,no,last moment,male,always,no,<5 hours,high school,sometimes,yes,dormitory
+18-21,sometimes,fail,alone,no,last moment,male,always,no,<5 hours,secondary school,always,no,dormitory
+18-21,sometimes,pass,alone,no,last moment,female,always,no,None,university,always,no,rental
+22-25,always,pass,with friends,yes,regularly,male,always,yes,more than 20 hours,primary school,always,yes,rental
+18-21,sometimes,pass,with friends,no,last moment,male,always,no,11-20 hours,high school,always,yes,dormitory
+18-21,sometimes,pass,alone,no,regularly,female,always,no,<5 hours,primary school,always,yes,dormitory
+22-25,never,pass,with friends,yes,regularly,female,always,yes,<5 hours,MSc.,always,yes,dormitory
+18-21,sometimes,fail,not applicable,yes,last moment,female,always,yes,<5 hours,university,always,no,dormitory
+18-21,sometimes,pass,not applicable,no,last moment,male,sometimes,no,<5 hours,secondary school,sometimes,yes,with family
+18-21,never,fail,not applicable,no,last moment,male,always,no,6-10 hours,secondary school,always,no,rental
+22-25,always,pass,with friends,no,last moment,female,always,yes,None,secondary school,always,no,rental
+18-21,always,pass,alone,no,last moment,male,sometimes,yes,<5 hours,university,always,no,dormitory
+22-25,always,pass,alone,no,last moment,male,always,no,<5 hours,high school,always,no,rental
+22-25,always,pass,alone,no,last moment,male,always,yes,<5 hours,university,always,no,with family
+22-25,sometimes,fail,alone,yes,last moment,male,always,yes,<5 hours,high school,always,no,with family
+18-21,sometimes,fail,not applicable,no,last moment,male,always,no,None,secondary school,always,no,rental
+18-21,always,pass,alone,no,last moment,male,sometimes,no,<5 hours,primary school,always,no,dormitory
+18-21,sometimes,fail,with friends,no,last moment,female,always,yes,<5 hours,high school,always,no,with family
+22-25,always,pass,with friends,yes,regularly,male,always,no,None,university,always,yes,rental
+22-25,never,fail,with friends,no,last moment,male,always,yes,<5 hours,primary school,always,no,rental
+18-21,sometimes,fail,with friends,yes,regularly,female,always,yes,more than 20 hours,primary school,always,yes,rental
+22-25,sometimes,fail,alone,yes,last moment,female,sometimes,no,None,high school,always,no,rental
+22-25,always,pass,with friends,yes,last moment,male,sometimes,no,None,secondary school,always,yes,dormitory
+above 26,always,fail,alone,no,last moment,male,always,yes,6-10 hours,university,sometimes,yes,dormitory
+18-21,always,pass,alone,no,regularly,female,always,no,<5 hours,secondary school,always,yes,dormitory
+18-21,always,fail,not applicable,yes,last moment,male,always,no,<5 hours,secondary school,always,no,dormitory
+22-25,always,pass,alone,no,regularly,female,always,no,<5 hours,high school,always,yes,with family
+above 26,always,fail,alone,no,never,male,never,no,<5 hours,university,always,no,with family
+22-25,always,pass,with friends,no,last moment,male,always,no,<5 hours,secondary school,sometimes,yes,with family
+18-21,sometimes,pass,alone,no,last moment,male,sometimes,yes,<5 hours,high school,always,yes,rental
+above 26,always,pass,not applicable,yes,never,female,always,no,None,high school,always,yes,with family
+22-25,sometimes,pass,alone,no,last moment,male,always,no,6-10 hours,secondary school,always,yes,rental
+22-25,always,pass,alone,no,last moment,female,sometimes,no,None,high school,sometimes,no,rental
+18-21,sometimes,fail,not applicable,no,regularly,male,always,yes,None,secondary school,always,yes,dormitory
+18-21,sometimes,fail,alone,no,regularly,male,sometimes,yes,<5 hours,university,sometimes,no,dormitory
+22-25,always,pass,alone,yes,last moment,male,always,no,None,university,always,yes,with family
+18-21,sometimes,pass,alone,no,last moment,male,always,yes,<5 hours,secondary school,always,no,rental
+18-21,always,fail,alone,no,last moment,male,always,no,<5 hours,university,always,yes,with family
+22-25,sometimes,fail,alone,no,last moment,female,sometimes,yes,None,high school,always,yes,dormitory
+18-21,always,pass,alone,yes,last moment,female,sometimes,yes,more than 20 hours,university,always,yes,rental
+22-25,sometimes,fail,alone,yes,last moment,female,never,no,6-10 hours,secondary school,always,no,rental
+22-25,never,pass,alone,yes,last moment,female,always,yes,6-10 hours,high school,sometimes,no,rental
+18-21,always,pass,alone,yes,last moment,male,sometimes,no,None,primary school,always,yes,with family
+22-25,sometimes,pass,alone,no,last moment,male,sometimes,no,<5 hours,high school,always,yes,dormitory
+18-21,always,pass,alone,no,last moment,female,always,no,<5 hours,secondary school,always,yes,other
+22-25,never,fail,alone,yes,last moment,male,sometimes,no,6-10 hours,secondary school,always,no,rental
+22-25,sometimes,pass,with friends,no,last moment,male,always,no,6-10 hours,secondary school,sometimes,yes,rental
+18-21,always,pass,with friends,yes,last moment,male,always,no,<5 hours,high school,sometimes,no,with family
+18-21,sometimes,pass,alone,no,last moment,male,always,yes,6-10 hours,high school,sometimes,yes,rental
+18-21,sometimes,pass,with friends,yes,last moment,male,sometimes,yes,more than 20 hours,high school,always,yes,rental
+above 26,sometimes,pass,not applicable,no,last moment,female,always,no,None,high school,always,yes,dormitory
+18-21,always,pass,alone,no,last moment,male,always,no,None,high school,always,no,rental
+18-21,sometimes,pass,alone,yes,last moment,male,always,yes,<5 hours,primary school,sometimes,yes,dormitory
+22-25,always,fail,alone,yes,last moment,female,always,no,6-10 hours,high school,sometimes,no,rental
+22-25,always,fail,with friends,no,last moment,female,always,no,<5 hours,primary school,always,no,with family
+22-25,always,pass,with friends,no,last moment,male,always,no,<5 hours,high school,sometimes,yes,dormitory
+22-25,always,fail,alone,yes,last moment,female,always,no,<5 hours,primary school,always,no,dormitory
+18-21,always,fail,with friends,no,last moment,female,sometimes,no,None,high school,sometimes,no,rental
+22-25,sometimes,pass,alone,no,last moment,male,always,no,<5 hours,secondary school,sometimes,no,rental
+22-25,sometimes,pass,alone,yes,last moment,female,sometimes,yes,<5 hours,high school,always,yes,dormitory
+22-25,never,fail,alone,no,last moment,male,always,yes,<5 hours,secondary school,sometimes,yes,with family
+22-25,sometimes,pass,with friends,no,last moment,female,sometimes,yes,6-10 hours,university,always,yes,dormitory
+18-21,sometimes,pass,alone,yes,last moment,male,always,no,None,primary school,always,yes,with family
+22-25,always,fail,alone,yes,last moment,male,sometimes,no,<5 hours,university,sometimes,no,rental
+18-21,always,pass,with friends,no,last moment,male,sometimes,yes,<5 hours,high school,always,yes,rental
+22-25,always,pass,alone,no,last moment,male,always,yes,None,high school,always,no,dormitory
+22-25,sometimes,fail,alone,no,last moment,female,always,no,None,high school,always,yes,rental
+18-21,always,pass,with friends,no,regularly,male,always,no,None,secondary school,always,no,with family
+22-25,sometimes,fail,alone,no,last moment,male,sometimes,yes,None,high school,always,no,rental
+22-25,always,pass,alone,no,last moment,male,always,yes,<5 hours,university,always,no,rental
+22-25,always,fail,alone,no,regularly,male,always,no,<5 hours,high school,sometimes,no,with family
+18-21,sometimes,pass,alone,yes,regularly,female,sometimes,yes,more than 20 hours,secondary school,always,yes,rental
+18-21,sometimes,pass,alone,no,regularly,female,always,no,<5 hours,secondary school,always,yes,dormitory
+22-25,always,pass,with friends,yes,last moment,male,sometimes,yes,<5 hours,high school,always,yes,dormitory
+above 26,always,fail,not applicable,yes,never,male,sometimes,no,<5 hours,university,always,yes,rental
+22-25,never,fail,alone,yes,last moment,female,always,yes,6-10 hours,primary school,always,no,dormitory
+22-25,always,fail,alone,no,last moment,male,always,no,<5 hours,secondary school,always,no,dormitory
+22-25,always,fail,alone,no,last moment,female,always,no,<5 hours,Ph.D.,always,no,with family
+18-21,always,fail,alone,no,last moment,male,always,no,<5 hours,high school,always,no,rental
+18-21,always,pass,not applicable,no,last moment,male,sometimes,yes,<5 hours,secondary school,always,no,dormitory
+22-25,always,pass,alone,no,last moment,male,sometimes,no,<5 hours,secondary school,always,no,dormitory
+22-25,always,pass,alone,no,last moment,female,sometimes,yes,<5 hours,secondary school,always,no,dormitory
+18-21,always,pass,alone,no,last moment,female,always,yes,<5 hours,secondary school,always,no,rental
+above 26,always,pass,alone,yes,last moment,male,always,no,None,high school,always,yes,rental
+22-25,sometimes,fail,with friends,no,last moment,male,sometimes,no,<5 hours,primary school,sometimes,yes,dormitory
+18-21,always,fail,alone,yes,last moment,female,sometimes,yes,11-20 hours,primary school,sometimes,no,rental
+22-25,always,pass,alone,no,last moment,male,always,no,<5 hours,university,sometimes,yes,dormitory
+above 26,sometimes,pass,alone,no,last moment,male,sometimes,yes,<5 hours,university,always,yes,rental
+18-21,always,fail,alone,yes,regularly,female,always,no,None,high school,always,yes,with family
+22-25,sometimes,pass,alone,no,last moment,male,sometimes,yes,6-10 hours,high school,always,no,with family
+22-25,always,pass,alone,no,regularly,male,sometimes,no,6-10 hours,primary school,sometimes,no,dormitory
+18-21,always,fail,alone,no,last moment,female,always,no,<5 hours,secondary school,always,no,rental
+18-21,sometimes,pass,alone,yes,last moment,male,always,yes,more than 20 hours,primary school,always,yes,rental
+18-21,sometimes,fail,alone,yes,regularly,female,always,no,None,university,always,yes,dormitory
+18-21,sometimes,pass,with friends,no,last moment,male,always,yes,more than 20 hours,high school,always,no,other
+18-21,sometimes,fail,alone,no,last moment,male,sometimes,yes,<5 hours,high school,always,no,dormitory
+22-25,always,pass,not applicable,no,never,female,always,yes,<5 hours,MSc.,always,yes,rental
+22-25,always,pass,alone,yes,last moment,male,always,no,more than 20 hours,university,sometimes,yes,dormitory
+above 26,sometimes,fail,not applicable,no,never,male,sometimes,yes,None,primary school,always,yes,with family
+22-25,sometimes,pass,not applicable,no,never,female,always,yes,11-20 hours,MSc.,always,no,rental
+22-25,always,fail,alone,yes,last moment,male,sometimes,no,<5 hours,high school,always,no,dormitory
+22-25,sometimes,pass,alone,yes,last moment,male,always,yes,<5 hours,secondary school,always,no,dormitory
+18-21,always,pass,alone,yes,last moment,male,always,no,11-20 hours,primary school,sometimes,yes,dormitory
+22-25,sometimes,pass,alone,yes,last moment,male,sometimes,no,11-20 hours,high school,always,yes,dormitory
+18-21,sometimes,pass,not applicable,yes,regularly,male,sometimes,no,more than 20 hours,secondary school,sometimes,yes,dormitory
+22-25,sometimes,fail,alone,yes,last moment,male,always,no,6-10 hours,high school,sometimes,no,rental
+18-21,always,pass,alone,no,last moment,male,always,no,<5 hours,high school,always,no,with family
+22-25,sometimes,pass,alone,no,last moment,female,always,no,<5 hours,secondary school,sometimes,yes,rental
+18-21,always,pass,alone,no,last moment,male,sometimes,no,None,high school,sometimes,no,rental
+18-21,sometimes,pass,alone,no,last moment,male,always,no,<5 hours,high school,always,yes,with family
+22-25,always,pass,alone,no,last moment,male,always,no,<5 hours,secondary school,sometimes,yes,dormitory
+22-25,never,pass,alone,no,last moment,male,always,no,<5 hours,university,always,no,dormitory
+22-25,sometimes,pass,alone,yes,last moment,female,always,yes,<5 hours,secondary school,always,no,rental
+22-25,always,pass,alone,no,last moment,male,sometimes,no,None,primary school,always,no,rental
+above 26,always,pass,alone,no,last moment,male,always,no,<5 hours,secondary school,always,no,dormitory
+above 26,sometimes,fail,not applicable,no,never,male,sometimes,yes,<5 hours,university,always,yes,rental
+22-25,sometimes,fail,not applicable,yes,last moment,male,sometimes,no,6-10 hours,high school,always,yes,rental
+18-21,always,pass,with friends,no,last moment,female,sometimes,no,more than 20 hours,high school,sometimes,no,rental
+above 26,always,pass,with friends,no,last moment,female,always,no,<5 hours,primary school,always,yes,dormitory
+22-25,always,fail,alone,no,last moment,female,always,no,6-10 hours,high school,always,no,rental
+22-25,sometimes,pass,alone,no,regularly,male,always,no,None,MSc.,always,no,with family
+22-25,always,pass,with friends,no,last moment,female,always,yes,6-10 hours,secondary school,always,yes,dormitory
+22-25,sometimes,pass,alone,no,last moment,male,sometimes,no,<5 hours,university,always,no,with family
+22-25,never,fail,alone,no,regularly,female,sometimes,yes,<5 hours,high school,always,no,rental
+18-21,always,pass,alone,yes,last moment,male,always,no,<5 hours,primary school,sometimes,no,dormitory
+18-21,sometimes,fail,alone,no,last moment,male,sometimes,no,<5 hours,secondary school,always,no,dormitory
+22-25,sometimes,pass,alone,no,last moment,male,sometimes,no,6-10 hours,high school,always,yes,dormitory
+18-21,always,fail,with friends,yes,regularly,male,always,yes,<5 hours,secondary school,always,no,dormitory
+22-25,always,pass,with friends,no,regularly,female,always,no,11-20 hours,MSc.,always,yes,dormitory
+22-25,never,fail,alone,yes,last moment,male,always,no,6-10 hours,high school,always,no,rental
+22-25,sometimes,fail,alone,no,last moment,male,sometimes,no,6-10 hours,high school,always,no,rental
+18-21,always,pass,alone,no,last moment,male,sometimes,no,None,secondary school,always,yes,rental
+18-21,sometimes,pass,with friends,no,last moment,female,sometimes,yes,None,high school,always,no,rental
+22-25,sometimes,pass,with friends,no,last moment,female,always,no,<5 hours,university,always,yes,with family
+18-21,sometimes,pass,alone,no,last moment,male,always,no,<5 hours,MSc.,sometimes,no,with family
+22-25,always,pass,alone,no,last moment,male,always,yes,<5 hours,secondary school,sometimes,no,rental
+22-25,always,pass,with friends,no,last moment,male,always,yes,6-10 hours,high school,sometimes,yes,rental
+above 26,always,pass,alone,yes,last moment,female,sometimes,no,6-10 hours,university,always,no,rental
+18-21,always,pass,alone,no,last moment,male,sometimes,yes,<5 hours,MSc.,sometimes,yes,rental
+18-21,never,fail,alone,no,last moment,male,sometimes,yes,<5 hours,university,sometimes,yes,with family
+22-25,always,pass,alone,no,regularly,female,always,no,None,high school,sometimes,no,rental
+18-21,sometimes,pass,alone,no,last moment,male,sometimes,yes,None,university,sometimes,no,dormitory
+18-21,sometimes,pass,alone,yes,last moment,male,always,no,<5 hours,university,sometimes,no,dormitory
+18-21,always,fail,not applicable,no,last moment,male,always,no,None,Ph.D.,sometimes,no,rental
+22-25,sometimes,pass,alone,no,regularly,male,always,no,<5 hours,high school,always,no,with family
+22-25,always,fail,alone,no,last moment,male,sometimes,yes,<5 hours,university,always,yes,rental
+22-25,sometimes,pass,alone,no,last moment,male,always,no,<5 hours,high school,always,yes,with family
+18-21,always,pass,alone,no,last moment,female,always,yes,None,university,always,yes,dormitory
+22-25,sometimes,fail,not applicable,no,regularly,male,sometimes,no,None,university,always,no,rental
+18-21,sometimes,fail,not applicable,yes,last moment,male,always,no,None,secondary school,always,yes,rental
+18-21,always,fail,alone,no,last moment,female,always,no,6-10 hours,secondary school,always,yes,dormitory
+22-25,always,pass,alone,no,last moment,female,always,no,None,high school,always,no,with family
+18-21,always,fail,with friends,no,last moment,female,always,yes,None,secondary school,sometimes,no,dormitory
+18-21,sometimes,pass,alone,no,last moment,male,always,no,<5 hours,MSc.,always,no,with family
+22-25,always,fail,alone,yes,last moment,female,sometimes,yes,<5 hours,primary school,always,no,dormitory
+18-21,always,pass,alone,no,last moment,male,sometimes,yes,<5 hours,high school,always,yes,dormitory
+18-21,never,fail,alone,yes,last moment,male,always,yes,None,primary school,always,no,rental
+18-21,never,fail,alone,no,regularly,female,sometimes,no,<5 hours,primary school,sometimes,no,dormitory
+18-21,always,pass,alone,no,last moment,female,always,no,<5 hours,high school,always,no,rental
+18-21,never,fail,alone,no,last moment,male,sometimes,no,11-20 hours,university,always,yes,dormitory
+18-21,sometimes,fail,with friends,no,last moment,male,sometimes,no,<5 hours,university,sometimes,no,with family
+22-25,sometimes,pass,alone,yes,last moment,male,always,yes,more than 20 hours,high school,always,yes,rental
+22-25,sometimes,pass,alone,no,last moment,female,always,yes,<5 hours,secondary school,always,no,dormitory
+18-21,sometimes,pass,alone,no,last moment,male,always,no,<5 hours,university,sometimes,yes,with family
+18-21,always,fail,with friends,no,last moment,male,always,no,<5 hours,university,always,no,dormitory
+22-25,always,pass,alone,yes,last moment,male,always,no,more than 20 hours,secondary school,always,yes,dormitory
+22-25,always,pass,alone,no,last moment,female,sometimes,yes,6-10 hours,high school,always,yes,rental
+18-21,sometimes,pass,alone,no,last moment,male,always,no,<5 hours,secondary school,always,yes,with family
+22-25,always,pass,alone,no,last moment,male,always,yes,<5 hours,secondary school,always,no,dormitory
+22-25,always,fail,alone,yes,last moment,male,sometimes,yes,11-20 hours,high school,always,no,rental
+22-25,always,pass,with friends,yes,last moment,female,sometimes,no,6-10 hours,high school,always,yes,dormitory
+18-21,always,fail,alone,no,regularly,female,always,yes,<5 hours,primary school,sometimes,yes,with family
+22-25,sometimes,pass,alone,yes,regularly,male,always,yes,more than 20 hours,university,sometimes,yes,other
+22-25,sometimes,fail,with friends,no,last moment,male,always,yes,<5 hours,primary school,always,yes,rental
+22-25,always,fail,with friends,no,last moment,male,always,no,None,primary school,sometimes,yes,rental
+22-25,sometimes,pass,alone,yes,regularly,male,always,no,6-10 hours,primary school,sometimes,yes,dormitory
+above 26,sometimes,fail,with friends,no,never,female,sometimes,yes,<5 hours,secondary school,always,no,dormitory
+18-21,always,fail,alone,no,last moment,male,always,yes,11-20 hours,high school,always,no,rental
+18-21,sometimes,pass,alone,no,last moment,female,sometimes,no,<5 hours,high school,always,no,dormitory
+18-21,sometimes,fail,alone,no,regularly,male,sometimes,yes,6-10 hours,high school,always,no,with family
+22-25,sometimes,fail,alone,yes,last moment,female,sometimes,no,None,high school,always,no,rental
+18-21,always,pass,alone,no,last moment,male,always,yes,<5 hours,primary school,always,no,rental
+18-21,sometimes,pass,not applicable,no,regularly,male,always,no,None,secondary school,always,yes,rental
+18-21,sometimes,pass,alone,yes,last moment,male,always,no,<5 hours,primary school,always,yes,rental
+18-21,always,fail,not applicable,yes,last moment,male,always,yes,more than 20 hours,secondary school,sometimes,yes,rental
+18-21,never,pass,not applicable,no,last moment,male,sometimes,no,6-10 hours,secondary school,always,yes,rental
+18-21,sometimes,pass,alone,yes,last moment,male,always,no,None,high school,always,yes,with family
+18-21,always,fail,with friends,no,last moment,female,sometimes,no,None,high school,sometimes,yes,rental
+22-25,sometimes,pass,alone,no,last moment,male,always,yes,<5 hours,high school,always,no,with family
+22-25,always,pass,not applicable,no,last moment,male,sometimes,yes,<5 hours,high school,always,no,rental
+above 26,sometimes,pass,alone,yes,last moment,male,always,no,6-10 hours,secondary school,always,no,rental
+18-21,always,pass,alone,no,last moment,male,always,yes,<5 hours,primary school,always,no,rental
+22-25,sometimes,pass,alone,yes,last moment,female,always,no,6-10 hours,secondary school,always,no,rental
+18-21,always,pass,with friends,yes,regularly,male,always,no,6-10 hours,secondary school,always,yes,dormitory
+18-21,sometimes,fail,alone,no,last moment,female,always,no,<5 hours,high school,always,no,rental
+22-25,always,fail,alone,no,last moment,female,always,yes,None,secondary school,sometimes,yes,dormitory
+18-21,always,fail,with friends,yes,last moment,male,never,no,None,university,always,no,with family
+22-25,sometimes,pass,alone,yes,last moment,male,sometimes,yes,<5 hours,secondary school,always,no,dormitory
+18-21,sometimes,pass,alone,no,regularly,male,sometimes,yes,<5 hours,high school,always,no,dormitory
+18-21,sometimes,fail,alone,no,last moment,female,always,no,None,secondary school,always,no,rental
+22-25,sometimes,pass,alone,no,last moment,female,always,no,<5 hours,university,always,yes,with family
+18-21,always,pass,alone,no,last moment,female,always,no,<5 hours,university,always,no,dormitory
+22-25,always,pass,with friends,no,last moment,male,always,no,<5 hours,primary school,always,yes,rental
+18-21,never,pass,alone,no,regularly,female,sometimes,yes,<5 hours,MSc.,sometimes,yes,rental
+above 26,always,pass,alone,yes,last moment,male,sometimes,no,<5 hours,university,always,no,dormitory
+22-25,always,pass,with friends,no,last moment,female,sometimes,no,6-10 hours,university,always,yes,rental
+22-25,always,pass,not applicable,no,regularly,male,sometimes,no,<5 hours,university,sometimes,no,rental
+22-25,always,pass,alone,no,last moment,male,always,yes,None,MSc.,always,yes,with family
+22-25,sometimes,pass,alone,no,last moment,female,sometimes,yes,<5 hours,university,always,yes,with family
+22-25,sometimes,pass,alone,yes,last moment,female,always,yes,<5 hours,secondary school,always,yes,with family
+18-21,always,pass,alone,yes,last moment,male,always,no,<5 hours,primary school,always,no,rental
+22-25,always,pass,with friends,yes,last moment,female,always,no,6-10 hours,secondary school,sometimes,no,rental
+22-25,never,fail,alone,no,last moment,female,sometimes,no,<5 hours,university,sometimes,no,with family
+above 26,sometimes,fail,not applicable,yes,last moment,male,always,yes,<5 hours,university,always,no,dormitory
+22-25,always,fail,with friends,yes,last moment,female,always,no,<5 hours,university,always,no,dormitory
+above 26,sometimes,pass,alone,yes,last moment,male,sometimes,no,6-10 hours,high school,always,no,rental
+22-25,always,pass,with friends,yes,last moment,male,always,no,6-10 hours,primary school,always,no,dormitory
+22-25,never,pass,alone,yes,regularly,male,never,no,None,primary school,sometimes,no,rental
+22-25,always,pass,alone,no,last moment,male,always,yes,None,secondary school,always,no,dormitory
+22-25,sometimes,pass,alone,no,last moment,female,always,no,6-10 hours,primary school,always,yes,dormitory
+22-25,sometimes,pass,alone,no,last moment,male,always,no,<5 hours,university,sometimes,no,rental
+18-21,sometimes,pass,alone,yes,last moment,male,sometimes,no,6-10 hours,secondary school,always,no,rental
+18-21,sometimes,pass,alone,no,last moment,female,sometimes,no,<5 hours,university,always,no,rental
+22-25,sometimes,fail,alone,yes,regularly,male,sometimes,no,<5 hours,high school,always,no,dormitory
+18-21,always,pass,with friends,no,last moment,female,always,yes,<5 hours,high school,always,yes,rental
+22-25,always,fail,alone,no,last moment,male,always,yes,<5 hours,high school,always,no,with family
+18-21,always,fail,alone,yes,regularly,female,always,yes,6-10 hours,primary school,sometimes,no,with family
+18-21,always,fail,alone,no,last moment,male,always,yes,6-10 hours,primary school,always,yes,rental
+22-25,always,pass,with friends,yes,last moment,female,sometimes,no,<5 hours,university,always,no,dormitory
+18-21,always,fail,alone,yes,last moment,male,always,no,None,high school,always,yes,with family
+18-21,always,pass,with friends,yes,last moment,female,always,no,6-10 hours,secondary school,always,no,rental
+22-25,sometimes,pass,alone,yes,last moment,female,sometimes,no,<5 hours,high school,always,no,with family
+22-25,always,pass,with friends,yes,last moment,female,sometimes,yes,<5 hours,university,always,yes,dormitory
+above 26,always,pass,not applicable,yes,last moment,male,sometimes,no,6-10 hours,university,always,no,rental
+22-25,always,fail,alone,no,last moment,male,always,yes,<5 hours,high school,always,no,with family
+18-21,always,pass,alone,no,regularly,female,always,no,None,high school,always,no,rental
+18-21,sometimes,fail,alone,yes,last moment,female,always,no,<5 hours,university,always,no,rental
+18-21,always,fail,alone,no,last moment,male,always,yes,<5 hours,high school,always,yes,with family
+18-21,always,pass,alone,yes,last moment,female,sometimes,no,None,university,sometimes,yes,with family
+22-25,always,pass,with friends,no,last moment,female,sometimes,no,None,secondary school,always,no,rental
+above 26,always,fail,not applicable,no,never,male,sometimes,no,6-10 hours,primary school,always,yes,rental
+18-21,always,pass,alone,no,last moment,male,sometimes,no,6-10 hours,high school,always,yes,rental
+22-25,sometimes,pass,alone,yes,last moment,male,always,no,<5 hours,high school,always,no,rental
+22-25,always,pass,with friends,no,last moment,female,always,yes,None,university,always,yes,with family
+18-21,always,pass,alone,no,regularly,female,sometimes,no,<5 hours,primary school,sometimes,no,with family
+above 26,sometimes,fail,not applicable,no,last moment,male,always,no,11-20 hours,university,always,no,other
+22-25,sometimes,fail,not applicable,yes,last moment,male,never,yes,<5 hours,university,sometimes,yes,dormitory
+18-21,never,pass,with friends,no,last moment,male,sometimes,no,6-10 hours,high school,sometimes,yes,rental
+18-21,sometimes,fail,alone,no,last moment,male,always,no,6-10 hours,primary school,sometimes,no,rental
+22-25,sometimes,pass,alone,no,last moment,male,never,no,None,primary school,always,no,rental
+22-25,sometimes,pass,with friends,no,last moment,male,always,no,<5 hours,secondary school,always,yes,with family
+above 26,always,fail,not applicable,no,never,male,sometimes,yes,<5 hours,MSc.,always,no,dormitory
+18-21,sometimes,fail,with friends,no,last moment,male,always,no,<5 hours,high school,always,yes,rental
+22-25,sometimes,pass,alone,no,last moment,male,always,yes,<5 hours,university,always,yes,rental
+22-25,always,fail,alone,no,last moment,female,always,no,6-10 hours,high school,always,no,dormitory
+22-25,sometimes,pass,alone,no,last moment,male,always,yes,<5 hours,high school,sometimes,yes,with family
+18-21,sometimes,pass,alone,yes,last moment,male,always,yes,6-10 hours,high school,always,no,with family
+22-25,sometimes,pass,alone,no,last moment,male,always,yes,6-10 hours,university,always,no,dormitory
+22-25,sometimes,pass,alone,no,last moment,male,sometimes,yes,<5 hours,high school,always,yes,rental
+22-25,sometimes,pass,alone,no,last moment,male,always,no,6-10 hours,university,always,yes,rental
+22-25,always,pass,alone,no,regularly,male,always,yes,<5 hours,university,always,yes,dormitory
+22-25,sometimes,fail,alone,no,regularly,male,sometimes,no,<5 hours,primary school,always,no,dormitory
+18-21,sometimes,pass,with friends,no,last moment,female,always,yes,<5 hours,high school,always,yes,rental
+18-21,sometimes,pass,alone,no,last moment,male,always,yes,None,university,always,yes,dormitory
+22-25,sometimes,pass,alone,no,last moment,male,always,no,<5 hours,secondary school,sometimes,yes,rental
+22-25,sometimes,pass,alone,no,last moment,female,always,no,<5 hours,secondary school,always,no,dormitory
+18-21,sometimes,pass,alone,no,regularly,female,always,yes,<5 hours,primary school,always,no,rental
+22-25,never,pass,alone,yes,last moment,female,sometimes,yes,6-10 hours,high school,sometimes,no,dormitory
+18-21,sometimes,pass,alone,no,last moment,female,always,no,<5 hours,university,always,yes,rental
+22-25,always,pass,alone,no,last moment,female,never,yes,6-10 hours,high school,always,no,rental
+18-21,always,pass,with friends,no,last moment,male,never,yes,6-10 hours,high school,always,no,with family
+22-25,never,fail,with friends,no,last moment,female,sometimes,yes,6-10 hours,university,always,no,dormitory
+22-25,always,pass,alone,yes,regularly,male,always,no,6-10 hours,primary school,always,yes,dormitory
+22-25,never,fail,alone,no,last moment,female,sometimes,no,<5 hours,secondary school,always,no,rental
+above 26,sometimes,pass,alone,yes,last moment,male,sometimes,no,11-20 hours,secondary school,always,yes,dormitory
+above 26,always,pass,not applicable,yes,never,male,sometimes,yes,<5 hours,primary school,sometimes,no,dormitory
+18-21,sometimes,fail,alone,no,last moment,male,sometimes,yes,None,high school,always,yes,dormitory
+22-25,sometimes,pass,alone,no,regularly,male,sometimes,no,<5 hours,high school,always,yes,rental
+18-21,always,pass,alone,no,last moment,male,always,no,<5 hours,high school,sometimes,no,rental
+22-25,always,pass,alone,no,last moment,female,always,no,more than 20 hours,secondary school,always,no,rental
+22-25,sometimes,pass,alone,no,last moment,male,sometimes,yes,<5 hours,university,always,yes,rental
+18-21,sometimes,pass,alone,yes,last moment,male,always,no,None,primary school,always,yes,dormitory
+18-21,always,pass,alone,yes,regularly,male,sometimes,no,6-10 hours,university,always,no,rental
+18-21,never,pass,alone,yes,last moment,male,always,yes,<5 hours,high school,always,yes,with family
+22-25,sometimes,pass,alone,yes,last moment,male,always,no,6-10 hours,Ph.D.,always,yes,dormitory
+18-21,sometimes,pass,alone,no,last moment,male,always,no,<5 hours,primary school,always,no,dormitory
+18-21,always,pass,alone,no,last moment,male,sometimes,no,<5 hours,primary school,always,no,rental
+above 26,sometimes,pass,with friends,no,last moment,female,always,no,6-10 hours,high school,always,no,rental
+22-25,sometimes,pass,not applicable,no,last moment,female,always,yes,None,MSc.,always,yes,with family
+18-21,sometimes,fail,alone,no,last moment,female,sometimes,yes,None,high school,always,yes,with family
+22-25,sometimes,pass,alone,no,last moment,female,sometimes,no,6-10 hours,secondary school,always,no,dormitory
+18-21,always,fail,not applicable,no,regularly,female,always,yes,6-10 hours,MSc.,always,no,rental
+22-25,sometimes,pass,with friends,no,last moment,male,sometimes,no,<5 hours,university,always,no,dormitory
+22-25,always,pass,with friends,no,last moment,female,always,no,<5 hours,university,always,no,with family
+22-25,sometimes,pass,alone,no,last moment,female,always,no,<5 hours,Ph.D.,sometimes,yes,dormitory
+18-21,sometimes,pass,alone,no,last moment,female,always,yes,6-10 hours,high school,always,no,with family
+22-25,always,fail,alone,no,last moment,male,sometimes,no,<5 hours,university,always,yes,with family
+22-25,sometimes,pass,alone,no,last moment,female,always,no,<5 hours,high school,always,yes,dormitory
+22-25,sometimes,pass,alone,no,last moment,female,always,no,<5 hours,secondary school,always,yes,rental
+18-21,always,pass,alone,no,last moment,male,always,no,6-10 hours,primary school,always,yes,rental
+18-21,always,fail,alone,yes,last moment,male,always,no,<5 hours,MSc.,always,no,with family
+18-21,always,fail,alone,yes,regularly,male,sometimes,yes,more than 20 hours,high school,sometimes,yes,rental
+18-21,sometimes,pass,alone,yes,last moment,female,always,yes,<5 hours,university,sometimes,no,rental
+18-21,sometimes,pass,alone,yes,last moment,male,always,no,<5 hours,high school,always,no,dormitory
+22-25,always,pass,alone,no,last moment,male,sometimes,yes,<5 hours,high school,always,yes,rental
+18-21,sometimes,pass,alone,no,last moment,female,sometimes,no,6-10 hours,high school,always,yes,rental
+18-21,sometimes,pass,alone,yes,last moment,female,always,yes,<5 hours,university,always,no,dormitory
+22-25,sometimes,fail,alone,no,last moment,male,sometimes,no,<5 hours,secondary school,always,no,rental
+18-21,always,fail,alone,no,last moment,female,always,no,6-10 hours,high school,sometimes,no,rental
+22-25,sometimes,fail,with friends,yes,last moment,female,sometimes,no,None,university,always,no,rental
+18-21,always,pass,alone,no,regularly,male,always,no,6-10 hours,university,always,no,rental
+18-21,always,fail,with friends,yes,last moment,female,sometimes,no,<5 hours,high school,sometimes,no,with family
+18-21,sometimes,fail,with friends,yes,last moment,male,always,no,<5 hours,high school,always,no,rental
+18-21,always,fail,alone,no,last moment,male,always,no,<5 hours,primary school,always,no,dormitory
+18-21,sometimes,pass,not applicable,no,regularly,female,sometimes,no,6-10 hours,MSc.,always,no,rental
+22-25,always,pass,alone,no,regularly,female,always,no,<5 hours,high school,always,no,with family
+above 26,always,pass,alone,no,last moment,male,always,yes,<5 hours,high school,always,yes,rental
+22-25,always,pass,with friends,no,last moment,female,sometimes,no,<5 hours,university,always,no,rental
+22-25,always,fail,alone,no,last moment,male,always,yes,<5 hours,university,always,yes,rental
+22-25,sometimes,fail,not applicable,no,last moment,male,always,no,<5 hours,university,always,yes,dormitory
+22-25,sometimes,pass,alone,no,last moment,male,sometimes,no,None,secondary school,sometimes,no,rental
+18-21,sometimes,pass,alone,no,last moment,female,always,yes,<5 hours,university,always,yes,rental
+22-25,always,fail,alone,yes,regularly,male,always,no,<5 hours,high school,sometimes,no,rental
+18-21,always,pass,alone,no,last moment,male,always,no,<5 hours,high school,sometimes,yes,dormitory
+18-21,sometimes,fail,with friends,yes,last moment,male,always,no,None,university,sometimes,yes,with family
+22-25,always,fail,alone,no,last moment,male,always,yes,<5 hours,secondary school,always,yes,rental
+18-21,sometimes,pass,alone,no,last moment,male,always,no,<5 hours,secondary school,always,no,rental
+22-25,sometimes,pass,alone,no,last moment,male,sometimes,no,<5 hours,secondary school,always,yes,with family
+18-21,sometimes,fail,not applicable,no,last moment,female,always,yes,None,university,sometimes,yes,dormitory
+22-25,sometimes,pass,alone,no,last moment,male,always,no,<5 hours,university,sometimes,no,rental
+22-25,sometimes,pass,alone,yes,last moment,female,always,yes,<5 hours,high school,always,no,dormitory
+22-25,always,pass,with friends,yes,last moment,male,always,yes,11-20 hours,primary school,always,yes,with family
+18-21,always,fail,alone,no,last moment,male,always,yes,<5 hours,high school,always,yes,rental
+18-21,sometimes,fail,alone,yes,last moment,female,always,no,None,primary school,sometimes,no,rental
+22-25,sometimes,pass,alone,yes,regularly,male,always,no,None,primary school,always,yes,with family
+above 26,always,pass,alone,no,never,male,always,no,<5 hours,university,sometimes,no,dormitory
+22-25,always,pass,alone,yes,last moment,male,sometimes,no,None,high school,sometimes,yes,with family
+18-21,sometimes,fail,alone,yes,last moment,female,always,no,<5 hours,primary school,always,no,dormitory
+22-25,sometimes,fail,alone,no,regularly,male,sometimes,yes,6-10 hours,high school,always,no,dormitory
+18-21,sometimes,pass,alone,yes,last moment,male,always,yes,11-20 hours,high school,always,no,rental
+22-25,always,pass,not applicable,no,last moment,male,sometimes,no,<5 hours,high school,always,no,dormitory
+22-25,always,fail,alone,no,last moment,female,always,no,<5 hours,high school,always,yes,dormitory
+22-25,sometimes,pass,alone,yes,last moment,female,always,yes,more than 20 hours,high school,always,yes,rental
+22-25,always,pass,alone,yes,last moment,male,always,no,6-10 hours,high school,always,no,dormitory
+22-25,sometimes,pass,alone,no,last moment,male,sometimes,no,<5 hours,high school,always,no,with family
+22-25,sometimes,pass,alone,no,last moment,male,always,yes,6-10 hours,secondary school,sometimes,no,rental
+22-25,always,pass,alone,no,last moment,male,always,no,<5 hours,secondary school,always,no,dormitory
+22-25,sometimes,fail,alone,yes,last moment,male,never,no,6-10 hours,university,always,no,dormitory
+22-25,always,pass,with friends,no,regularly,female,sometimes,yes,more than 20 hours,primary school,always,no,dormitory
+22-25,always,pass,with friends,no,last moment,female,sometimes,no,<5 hours,primary school,sometimes,no,dormitory
+18-21,sometimes,fail,alone,yes,last moment,female,sometimes,yes,<5 hours,primary school,sometimes,no,rental
+18-21,always,pass,alone,no,regularly,female,sometimes,no,None,MSc.,always,no,with family
+18-21,always,fail,alone,yes,last moment,male,sometimes,yes,11-20 hours,high school,always,no,rental
+18-21,sometimes,fail,with friends,yes,last moment,male,always,yes,<5 hours,high school,always,yes,dormitory
+18-21,always,fail,with friends,no,regularly,female,always,yes,<5 hours,high school,sometimes,no,rental
+18-21,always,pass,alone,no,last moment,male,sometimes,no,<5 hours,secondary school,always,yes,dormitory
+18-21,sometimes,pass,alone,no,regularly,male,sometimes,no,<5 hours,secondary school,always,no,dormitory
+22-25,always,pass,alone,no,last moment,male,sometimes,no,<5 hours,university,always,yes,dormitory
+22-25,sometimes,fail,not applicable,no,last moment,male,sometimes,yes,<5 hours,high school,always,yes,rental
+22-25,always,pass,alone,no,last moment,male,always,no,<5 hours,high school,always,yes,dormitory
+above 26,always,pass,not applicable,no,regularly,female,always,yes,<5 hours,high school,always,no,with family
+18-21,always,pass,alone,yes,last moment,male,always,no,6-10 hours,secondary school,always,yes,rental
+18-21,sometimes,fail,with friends,no,last moment,female,sometimes,no,None,high school,sometimes,yes,rental
+22-25,sometimes,fail,with friends,no,last moment,female,always,yes,6-10 hours,secondary school,always,no,rental
+18-21,never,fail,alone,no,last moment,male,always,no,<5 hours,high school,always,no,other
+22-25,always,fail,with friends,no,last moment,female,always,yes,<5 hours,university,always,yes,with family
+18-21,sometimes,fail,with friends,no,last moment,female,always,yes,None,high school,sometimes,yes,dormitory
+above 26,always,pass,alone,no,last moment,male,always,yes,<5 hours,secondary school,always,no,with family
+18-21,sometimes,fail,with friends,no,regularly,female,sometimes,no,<5 hours,high school,sometimes,no,rental
+22-25,always,pass,alone,yes,last moment,male,always,yes,<5 hours,high school,sometimes,no,dormitory
+18-21,always,pass,alone,no,regularly,male,sometimes,no,None,secondary school,sometimes,yes,rental
+22-25,sometimes,pass,not applicable,no,regularly,male,always,no,<5 hours,MSc.,sometimes,yes,dormitory
+18-21,always,pass,alone,no,last moment,male,sometimes,no,<5 hours,MSc.,always,no,rental
+above 26,always,pass,alone,no,never,male,sometimes,no,<5 hours,university,sometimes,yes,with family
+18-21,sometimes,fail,alone,no,regularly,male,always,no,6-10 hours,high school,always,no,rental
+22-25,sometimes,pass,alone,yes,last moment,male,sometimes,no,6-10 hours,secondary school,always,no,dormitory
+18-21,always,pass,alone,no,last moment,male,sometimes,no,more than 20 hours,high school,sometimes,no,rental
+22-25,sometimes,fail,alone,yes,last moment,female,always,no,None,university,always,no,with family
+above 26,sometimes,pass,alone,no,last moment,male,sometimes,no,<5 hours,high school,always,no,with family
+18-21,sometimes,pass,alone,yes,last moment,female,sometimes,no,6-10 hours,university,always,no,dormitory
+22-25,never,fail,alone,no,last moment,male,always,yes,None,high school,sometimes,no,dormitory
+18-21,always,pass,alone,no,last moment,male,always,yes,None,high school,always,yes,dormitory
+22-25,sometimes,pass,alone,yes,last moment,male,sometimes,no,<5 hours,university,always,no,rental
+above 26,sometimes,pass,alone,no,last moment,male,always,no,<5 hours,secondary school,sometimes,yes,dormitory
+18-21,sometimes,fail,alone,no,last moment,male,always,yes,<5 hours,university,always,no,rental
+18-21,sometimes,fail,not applicable,no,regularly,male,always,yes,<5 hours,secondary school,always,no,rental
+above 26,sometimes,pass,alone,yes,last moment,male,always,no,<5 hours,high school,always,no,dormitory
+18-21,sometimes,fail,not applicable,yes,regularly,male,always,no,None,secondary school,always,yes,with family
+22-25,always,pass,alone,no,last moment,female,sometimes,yes,<5 hours,high school,always,yes,with family
+22-25,sometimes,fail,with friends,yes,last moment,male,always,yes,6-10 hours,high school,sometimes,no,with family
+18-21,sometimes,fail,with friends,no,last moment,female,always,yes,<5 hours,high school,sometimes,no,rental
+22-25,sometimes,fail,alone,no,regularly,female,always,no,<5 hours,high school,sometimes,yes,with family
+18-21,never,pass,alone,no,last moment,male,sometimes,no,None,high school,always,no,rental
+18-21,always,pass,alone,no,last moment,female,sometimes,no,<5 hours,university,always,no,rental
+18-21,always,pass,alone,no,last moment,male,sometimes,no,<5 hours,primary school,always,no,rental
+above 26,always,pass,alone,yes,last moment,male,always,yes,<5 hours,high school,always,yes,dormitory
+22-25,sometimes,pass,alone,no,last moment,male,sometimes,no,<5 hours,university,always,no,dormitory
+22-25,sometimes,pass,alone,yes,last moment,male,always,no,<5 hours,secondary school,always,no,dormitory
+22-25,always,pass,alone,no,last moment,male,always,no,6-10 hours,primary school,always,yes,dormitory
+22-25,always,pass,alone,no,last moment,male,always,yes,<5 hours,high school,always,no,dormitory
+22-25,always,fail,with friends,no,last moment,male,sometimes,no,<5 hours,university,sometimes,yes,with family
+22-25,sometimes,pass,alone,yes,last moment,male,always,yes,6-10 hours,high school,always,no,with family
+18-21,sometimes,fail,alone,no,last moment,male,sometimes,yes,6-10 hours,university,always,no,with family
+22-25,always,fail,with friends,no,last moment,male,always,no,<5 hours,primary school,always,yes,dormitory
+22-25,sometimes,pass,alone,no,last moment,male,sometimes,no,<5 hours,high school,always,yes,dormitory
+18-21,sometimes,fail,with friends,no,regularly,female,sometimes,yes,<5 hours,high school,always,yes,rental
+above 26,sometimes,fail,not applicable,no,last moment,male,always,no,<5 hours,university,always,yes,dormitory
+18-21,always,pass,alone,no,last moment,male,never,yes,<5 hours,high school,always,no,dormitory
+22-25,sometimes,pass,alone,no,last moment,male,always,yes,11-20 hours,high school,always,no,dormitory
+22-25,sometimes,fail,alone,yes,last moment,female,sometimes,no,None,secondary school,always,no,with family
+22-25,always,pass,alone,no,last moment,male,sometimes,no,6-10 hours,university,always,no,rental
+22-25,sometimes,pass,alone,no,last moment,male,always,no,<5 hours,university,always,yes,rental
+18-21,always,pass,alone,no,last moment,male,sometimes,no,<5 hours,university,always,yes,rental
+22-25,always,fail,with friends,yes,regularly,male,always,no,<5 hours,primary school,always,no,dormitory
+22-25,always,pass,alone,no,last moment,female,sometimes,no,<5 hours,secondary school,always,no,with family
+18-21,always,pass,alone,yes,regularly,male,always,no,6-10 hours,secondary school,always,no,rental
+18-21,sometimes,fail,with friends,yes,last moment,female,always,no,None,secondary school,always,no,rental
+18-21,always,pass,not applicable,no,last moment,female,always,no,<5 hours,high school,always,no,rental
+22-25,sometimes,pass,alone,no,regularly,female,always,no,<5 hours,high school,always,no,dormitory
+18-21,sometimes,pass,not applicable,yes,last moment,female,always,no,6-10 hours,university,always,no,dormitory
+22-25,always,pass,with friends,no,last moment,male,always,no,6-10 hours,primary school,always,no,dormitory
+18-21,always,pass,alone,no,last moment,male,always,yes,<5 hours,high school,sometimes,no,rental
+above 26,always,pass,alone,no,never,male,sometimes,yes,None,university,always,yes,dormitory
+18-21,sometimes,pass,alone,no,last moment,male,sometimes,yes,6-10 hours,high school,always,no,dormitory
+18-21,always,pass,alone,no,last moment,female,always,no,6-10 hours,university,always,yes,rental
+18-21,always,fail,with friends,no,regularly,female,sometimes,no,6-10 hours,high school,always,yes,rental
+22-25,always,pass,alone,no,last moment,female,always,no,<5 hours,high school,always,no,rental
+22-25,sometimes,fail,with friends,yes,last moment,male,always,yes,<5 hours,high school,always,no,rental
+22-25,always,pass,alone,yes,last moment,male,sometimes,no,6-10 hours,secondary school,always,no,dormitory
+22-25,sometimes,fail,alone,no,last moment,male,always,yes,None,university,always,no,dormitory
+18-21,sometimes,pass,with friends,yes,regularly,female,always,yes,<5 hours,secondary school,sometimes,yes,dormitory
+22-25,sometimes,pass,alone,yes,last moment,male,always,no,None,primary school,sometimes,yes,dormitory
+18-21,always,pass,alone,no,last moment,male,always,no,<5 hours,high school,always,no,rental
+18-21,always,pass,with friends,yes,regularly,female,always,no,<5 hours,high school,always,no,dormitory
+18-21,always,pass,with friends,yes,last moment,male,sometimes,yes,<5 hours,university,always,no,dormitory
+22-25,sometimes,pass,alone,no,last moment,female,always,no,<5 hours,Ph.D.,always,no,with family
+18-21,sometimes,pass,alone,no,last moment,female,always,yes,<5 hours,secondary school,always,yes,rental
+22-25,sometimes,pass,with friends,no,last moment,male,sometimes,yes,<5 hours,university,always,no,dormitory
+18-21,sometimes,fail,with friends,no,last moment,female,always,yes,6-10 hours,high school,always,yes,rental
+18-21,always,fail,alone,no,last moment,male,always,no,None,university,always,no,rental
+18-21,sometimes,pass,alone,no,last moment,female,sometimes,yes,6-10 hours,secondary school,always,no,with family
+above 26,always,pass,alone,yes,last moment,male,sometimes,yes,None,high school,always,no,rental
+22-25,always,pass,alone,no,last moment,female,sometimes,no,None,secondary school,sometimes,no,rental
+18-21,sometimes,pass,alone,no,last moment,female,sometimes,yes,<5 hours,university,sometimes,no,rental
+22-25,always,pass,alone,yes,last moment,male,always,yes,more than 20 hours,secondary school,always,yes,rental
+22-25,sometimes,pass,alone,yes,last moment,male,sometimes,no,6-10 hours,high school,always,yes,rental
+22-25,sometimes,pass,alone,yes,last moment,male,always,yes,6-10 hours,high school,always,no,with family
+22-25,sometimes,pass,alone,no,last moment,female,always,yes,more than 20 hours,high school,sometimes,no,dormitory
+above 26,always,pass,alone,no,last moment,male,sometimes,yes,None,high school,always,yes,dormitory
+22-25,always,pass,with friends,no,last moment,female,always,yes,11-20 hours,university,always,no,rental
+22-25,always,pass,alone,no,last moment,male,sometimes,no,<5 hours,high school,always,no,rental
+18-21,always,pass,alone,no,regularly,female,sometimes,no,more than 20 hours,primary school,always,no,rental
+22-25,sometimes,fail,alone,no,last moment,female,always,yes,<5 hours,university,always,yes,with family
+18-21,always,pass,with friends,no,last moment,female,always,no,6-10 hours,high school,always,no,rental
+above 26,never,pass,with friends,no,regularly,female,sometimes,no,<5 hours,high school,always,yes,dormitory
+22-25,always,pass,with friends,no,regularly,male,never,yes,<5 hours,Ph.D.,always,yes,rental
+18-21,sometimes,fail,alone,yes,regularly,male,sometimes,no,None,high school,always,no,with family
+18-21,always,pass,alone,no,last moment,female,sometimes,no,<5 hours,secondary school,sometimes,no,dormitory
+22-25,always,pass,with friends,no,last moment,female,sometimes,yes,6-10 hours,primary school,always,no,with family
+18-21,always,fail,alone,yes,last moment,female,always,no,<5 hours,secondary school,always,no,rental
+18-21,never,fail,alone,yes,last moment,male,sometimes,no,6-10 hours,primary school,always,no,rental
+18-21,sometimes,pass,alone,no,regularly,male,sometimes,no,<5 hours,high school,always,no,dormitory
+18-21,sometimes,fail,with friends,yes,last moment,male,sometimes,no,11-20 hours,university,always,yes,dormitory
+18-21,always,fail,with friends,no,regularly,male,always,no,<5 hours,university,always,no,with family
+22-25,always,pass,alone,no,last moment,male,sometimes,yes,<5 hours,secondary school,always,yes,rental
+18-21,sometimes,pass,alone,no,regularly,female,always,yes,<5 hours,primary school,always,no,dormitory
+18-21,sometimes,pass,alone,no,regularly,female,always,yes,<5 hours,primary school,always,yes,rental
+22-25,sometimes,fail,alone,no,regularly,male,sometimes,no,<5 hours,high school,always,no,dormitory
+18-21,never,pass,alone,no,last moment,female,always,no,more than 20 hours,high school,sometimes,no,rental
+18-21,sometimes,pass,alone,no,last moment,male,sometimes,yes,<5 hours,MSc.,always,no,rental
+above 26,sometimes,pass,alone,no,last moment,male,always,no,<5 hours,secondary school,sometimes,no,with family
+18-21,sometimes,fail,alone,yes,last moment,female,always,no,None,MSc.,sometimes,yes,rental
+18-21,always,pass,alone,yes,last moment,male,always,no,<5 hours,high school,always,no,dormitory
+22-25,always,pass,alone,no,last moment,male,always,yes,None,primary school,always,no,dormitory
+22-25,sometimes,pass,alone,no,last moment,male,always,yes,6-10 hours,university,always,no,with family
+18-21,sometimes,pass,alone,yes,last moment,male,sometimes,no,6-10 hours,primary school,always,no,rental
+22-25,sometimes,pass,with friends,no,last moment,male,sometimes,no,None,secondary school,always,no,with family
+22-25,sometimes,pass,alone,no,last moment,male,always,yes,6-10 hours,high school,always,no,dormitory
+18-21,always,pass,with friends,no,regularly,female,sometimes,no,<5 hours,secondary school,always,yes,with family
+18-21,always,pass,with friends,no,last moment,female,sometimes,yes,None,primary school,always,yes,dormitory
+22-25,sometimes,fail,alone,no,regularly,male,always,no,None,primary school,always,no,rental
+18-21,always,pass,alone,no,last moment,male,never,no,6-10 hours,high school,always,yes,rental
+22-25,sometimes,pass,alone,no,regularly,female,always,no,None,high school,always,no,rental
+22-25,sometimes,pass,alone,yes,regularly,female,always,no,<5 hours,high school,always,no,dormitory
+18-21,always,fail,with friends,no,regularly,male,always,no,None,high school,always,no,rental
+22-25,sometimes,pass,alone,no,last moment,male,always,yes,<5 hours,secondary school,always,no,with family
+18-21,always,fail,not applicable,no,last moment,male,sometimes,no,<5 hours,secondary school,always,no,with family
+above 26,always,fail,alone,yes,last moment,male,always,no,6-10 hours,secondary school,always,no,rental
+22-25,always,fail,alone,no,last moment,male,always,yes,<5 hours,university,sometimes,yes,with family
+22-25,sometimes,pass,alone,no,regularly,female,never,no,None,high school,always,yes,rental
+18-21,sometimes,pass,alone,no,last moment,male,always,no,<5 hours,primary school,sometimes,no,dormitory
+22-25,always,pass,with friends,yes,last moment,male,always,yes,<5 hours,secondary school,sometimes,yes,dormitory
+22-25,sometimes,fail,with friends,yes,regularly,male,always,no,None,primary school,always,yes,with family
+22-25,sometimes,pass,alone,no,last moment,male,always,no,<5 hours,high school,sometimes,yes,other
+22-25,always,pass,alone,no,last moment,male,sometimes,no,<5 hours,high school,always,no,rental
+18-21,sometimes,pass,with friends,no,last moment,female,always,yes,<5 hours,high school,sometimes,yes,with family
+18-21,always,pass,alone,no,last moment,male,always,no,<5 hours,high school,sometimes,yes,with family
+22-25,sometimes,fail,alone,no,last moment,female,sometimes,no,None,secondary school,always,no,rental
+18-21,sometimes,fail,alone,no,last moment,female,sometimes,yes,11-20 hours,high school,sometimes,no,dormitory
+above 26,sometimes,pass,not applicable,no,regularly,male,always,no,<5 hours,MSc.,always,no,with family
+18-21,always,pass,alone,yes,regularly,male,never,no,<5 hours,high school,always,yes,rental
+18-21,always,pass,alone,yes,last moment,male,always,yes,6-10 hours,primary school,always,no,dormitory
+18-21,sometimes,pass,with friends,no,last moment,female,sometimes,no,6-10 hours,Ph.D.,always,no,rental
+18-21,sometimes,fail,alone,no,last moment,male,sometimes,yes,None,high school,always,no,dormitory
+18-21,sometimes,pass,with friends,no,last moment,male,sometimes,no,<5 hours,university,sometimes,yes,dormitory
+22-25,always,fail,with friends,yes,last moment,male,always,no,<5 hours,primary school,always,no,rental
+18-21,sometimes,fail,alone,no,last moment,female,always,no,6-10 hours,secondary school,sometimes,yes,rental
+22-25,always,pass,alone,yes,last moment,female,always,yes,<5 hours,primary school,always,no,dormitory
+22-25,never,fail,alone,no,last moment,male,sometimes,yes,<5 hours,university,always,no,rental
+22-25,always,pass,alone,no,last moment,male,sometimes,no,<5 hours,high school,always,yes,with family
+22-25,sometimes,fail,alone,no,last moment,male,always,yes,6-10 hours,high school,sometimes,yes,rental
+22-25,sometimes,fail,alone,no,last moment,female,always,yes,<5 hours,secondary school,always,yes,rental
+22-25,always,pass,with friends,no,last moment,male,always,yes,6-10 hours,primary school,always,yes,rental
+22-25,sometimes,fail,alone,no,last moment,male,always,yes,<5 hours,high school,always,yes,rental
+18-21,sometimes,pass,with friends,no,last moment,female,always,no,<5 hours,high school,always,no,dormitory
+18-21,sometimes,pass,alone,no,last moment,female,always,no,6-10 hours,university,sometimes,no,rental
+22-25,sometimes,pass,alone,no,last moment,female,sometimes,yes,<5 hours,secondary school,always,no,rental
+18-21,sometimes,pass,alone,no,last moment,male,sometimes,yes,<5 hours,university,always,yes,rental
+18-21,never,fail,alone,no,last moment,male,sometimes,no,<5 hours,high school,always,no,with family
+18-21,always,pass,alone,no,last moment,male,always,yes,<5 hours,high school,always,yes,with family
+18-21,sometimes,pass,with friends,no,last moment,male,always,no,None,university,sometimes,no,with family
+22-25,always,fail,alone,no,regularly,male,always,no,<5 hours,high school,sometimes,no,with family
+22-25,always,pass,with friends,no,last moment,male,always,yes,None,secondary school,always,yes,dormitory
+18-21,always,pass,with friends,no,last moment,male,always,no,<5 hours,university,always,yes,dormitory
+22-25,sometimes,fail,alone,no,last moment,male,sometimes,yes,None,high school,always,yes,dormitory
+22-25,sometimes,pass,with friends,no,last moment,male,always,no,None,primary school,always,yes,dormitory
+22-25,always,pass,with friends,no,last moment,female,sometimes,no,<5 hours,university,always,yes,rental
+above 26,sometimes,fail,alone,yes,last moment,male,always,yes,<5 hours,secondary school,always,yes,with family
+22-25,always,pass,with friends,no,last moment,female,sometimes,yes,<5 hours,primary school,always,no,dormitory
+22-25,sometimes,pass,alone,no,last moment,male,always,no,<5 hours,university,sometimes,no,dormitory
+22-25,always,fail,alone,yes,last moment,male,sometimes,yes,11-20 hours,high school,always,yes,with family
+18-21,always,pass,alone,yes,regularly,male,always,no,<5 hours,secondary school,always,no,with family
+18-21,always,fail,with friends,no,last moment,male,sometimes,no,None,secondary school,sometimes,no,rental
+22-25,sometimes,fail,alone,no,last moment,male,always,no,None,university,always,no,with family
+22-25,always,pass,with friends,no,last moment,female,sometimes,yes,11-20 hours,university,always,no,rental
+18-21,sometimes,pass,alone,no,last moment,female,sometimes,yes,None,high school,sometimes,yes,dormitory
+22-25,sometimes,fail,with friends,yes,last moment,female,always,no,<5 hours,university,always,no,dormitory
+22-25,sometimes,fail,with friends,yes,last moment,male,always,yes,6-10 hours,primary school,always,no,dormitory
+18-21,sometimes,fail,alone,yes,last moment,female,sometimes,no,<5 hours,university,always,no,with family
+22-25,always,pass,alone,no,last moment,male,always,yes,11-20 hours,high school,always,no,dormitory
+22-25,sometimes,pass,alone,yes,last moment,male,always,no,None,university,always,yes,dormitory
+18-21,always,pass,alone,yes,last moment,female,always,no,None,university,always,yes,with family
+22-25,sometimes,pass,with friends,no,last moment,male,sometimes,no,<5 hours,secondary school,always,no,dormitory
+18-21,never,fail,alone,no,last moment,male,sometimes,yes,None,primary school,sometimes,yes,with family
+22-25,sometimes,fail,not applicable,yes,last moment,male,always,yes,<5 hours,high school,sometimes,yes,with family
+18-21,never,pass,not applicable,no,last moment,female,always,yes,<5 hours,high school,always,yes,rental
+22-25,sometimes,pass,alone,no,last moment,male,sometimes,no,<5 hours,secondary school,always,yes,rental
+above 26,always,pass,alone,no,never,male,always,yes,6-10 hours,university,always,no,dormitory
+18-21,sometimes,fail,alone,yes,last moment,female,sometimes,no,6-10 hours,secondary school,always,no,rental
+above 26,sometimes,pass,alone,yes,last moment,male,sometimes,no,6-10 hours,high school,always,no,dormitory
+18-21,sometimes,pass,alone,no,regularly,male,always,no,<5 hours,university,always,yes,dormitory
+22-25,always,pass,alone,no,last moment,male,sometimes,yes,6-10 hours,secondary school,always,no,rental
+18-21,sometimes,pass,alone,no,last moment,female,sometimes,no,6-10 hours,high school,always,no,rental
+22-25,always,pass,alone,no,last moment,male,always,no,None,high school,always,yes,rental
+22-25,always,fail,alone,yes,last moment,male,sometimes,yes,6-10 hours,university,sometimes,no,with family
+22-25,sometimes,fail,with friends,no,last moment,female,sometimes,yes,<5 hours,university,always,yes,rental
+22-25,sometimes,fail,alone,yes,regularly,male,always,no,6-10 hours,university,always,no,rental
+18-21,always,pass,alone,no,last moment,female,sometimes,no,None,university,always,yes,rental
+22-25,sometimes,pass,alone,no,last moment,male,sometimes,yes,<5 hours,secondary school,always,no,rental
+22-25,always,pass,alone,yes,last moment,male,sometimes,no,6-10 hours,university,always,no,rental
+22-25,always,pass,alone,no,last moment,female,always,no,<5 hours,secondary school,sometimes,no,with family
+above 26,always,fail,not applicable,no,last moment,male,never,no,6-10 hours,university,always,no,dormitory
+22-25,sometimes,pass,alone,no,last moment,male,sometimes,yes,<5 hours,university,always,no,dormitory
+22-25,always,fail,not applicable,no,last moment,male,always,no,<5 hours,MSc.,always,yes,dormitory
+18-21,always,pass,with friends,yes,last moment,male,always,no,None,university,always,yes,dormitory
+22-25,always,fail,alone,no,last moment,female,always,no,<5 hours,secondary school,sometimes,yes,rental
+22-25,sometimes,fail,alone,no,last moment,male,sometimes,no,6-10 hours,high school,sometimes,no,dormitory
